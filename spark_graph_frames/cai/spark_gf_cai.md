@@ -2,7 +2,9 @@
 
 Spark GraphFrames is a package within Apache Spark that allows users to perform graph processing operations on data using a DataFrame-based approach. It allows you to perform various graph operations like finding connected components, calculating shortest paths, identifying triangles, and more. Real world applications include  social network analysis, recommendation systems, web link structures, flight connections, and other scenarios where relationships between data points are crucial.
 
-Using Spark GraphFrames in Cloudera AI Workbench requires minimum configuration effort. This quickstart provides a basic example so you can get started in no time.
+Cloudera AI (CAI) is a cloud-native service within the Cloudera Data Platform (CDP) that enables enterprise data science teams to collaborate across the full data lifecycle. It provides immediate access to enterprise data pipelines, scalable compute resources, and preferred tools, streamlining the process of moving analytic workloads from research to production.
+
+Using Spark GraphFrames in Cloudera AI requires minimum configuration effort. This quickstart provides a basic example so you can get started in no time.
 
 ### Requirements
 
@@ -103,7 +105,7 @@ g = GraphFrame(v, e)
 
 # Summary & Next Steps
 
-Cloudera Machine Learning (CML) is a cloud-native service within the Cloudera Data Platform (CDP) that enables enterprise data science teams to collaborate across the full data lifecycle. It provides immediate access to enterprise data pipelines, scalable compute resources, and preferred tools, streamlining the process of moving analytic workloads from research to production. In particular:
+Cloudera AI (CAI) is a cloud-native service within the Cloudera Data Platform (CDP) that enables enterprise data science teams to collaborate across the full data lifecycle. It provides immediate access to enterprise data pipelines, scalable compute resources, and preferred tools, streamlining the process of moving analytic workloads from research to production. In particular:
 
 * A CAI Workbench Session allows you to directly access and analyze large datasets, run code (like Python or R), build and train machine learning models, using the flexibility of Spark Runtime Addons to deploy Spark on Kubernetes clusters with minumum configurations, with your Spark version of choice.
 
