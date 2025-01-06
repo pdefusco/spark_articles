@@ -1,10 +1,12 @@
-# Spark Graph Frames in CAI - Quickstart
+# Getting Started with Spark GraphFrames in Cloudera AI Workbench
 
 Spark GraphFrames is a package within Apache Spark that allows users to perform graph processing operations on data using a DataFrame-based approach. It allows you to perform various graph operations like finding connected components, calculating shortest paths, identifying triangles, and more. Real world applications include  social network analysis, recommendation systems, web link structures, flight connections, and other scenarios where relationships between data points are crucial.
 
 Cloudera AI (CAI) is a cloud-native service within the Cloudera Data Platform (CDP) that enables enterprise data science teams to collaborate across the full data lifecycle. It provides immediate access to enterprise data pipelines, scalable compute resources, and preferred tools, streamlining the process of moving analytic workloads from research to production.
 
 Using Spark GraphFrames in Cloudera AI requires minimum configuration effort. This quickstart provides a basic example so you can get started in no time.
+
+You can find the same content [as an article in the Cloudera Community](https://community.cloudera.com/t5/Community-Articles/Getting-Started-with-Spark-GraphFrames-in-Cloudera-AI/ta-p/399716).
 
 ### Requirements
 
@@ -58,6 +60,7 @@ e = spark.createDataFrame([
   ("d", "a", "friend"),
   ("a", "e", "friend")
 ], ["src", "dst", "relationship"])
+
 # Create a GraphFrame
 g = GraphFrame(v, e)
 ```
@@ -66,7 +69,6 @@ g = GraphFrame(v, e)
 
 ```
 > g.vertices.show()
-
 +---+-------+---+
 | id|   name|age|
 +---+-------+---+
@@ -117,10 +119,10 @@ Cloudera AI (CAI) is a cloud-native service within the Cloudera Data Platform (C
 
 Finally, you can learn more about Cloudera AI Workbench with the following recommended blogs and community articles:
 
-**[Cloudera Machine Learning - What You Should Know](https://community.cloudera.com/t5/Community-Articles/Cloudera-Machine-Learning-What-You-Should-Know/ta-p/292935?utm_source=chatgpt.com)**  
-An insightful community article that provides an overview of CML's features and capabilities, helping teams deploy machine learning workspaces that auto-scale and auto-suspend to save costs.
+**[Cloudera AI - What You Should Know](https://community.cloudera.com/t5/Community-Articles/Cloudera-Machine-Learning-What-You-Should-Know/ta-p/292935?utm_source=chatgpt.com)**  
+An insightful community article that provides an overview of CAI's features and capabilities, helping teams deploy machine learning workspaces that auto-scale and auto-suspend to save costs.
 
-**[Illustrating AI/ML Model Development in Cloudera Machine Learning](https://medium.com/swlh/illustrating-ai-ml-model-development-in-cloudera-machine-learning-4ad7edcaa447)**  
+**[Illustrating AI/ML Model Development in Cloudera AI](https://medium.com/swlh/illustrating-ai-ml-model-development-in-cloudera-machine-learning-4ad7edcaa447)**  
 A Medium tutorial that demonstrates how to create and deploy models using CML on the Cloudera Data Platform Private Cloud, offering practical insights into the model development process.
 
 **[Cloudera Accelerators for ML Projects](https://cloudera.github.io/Applied-ML-Prototypes/?utm_source=chatgpt.com#/cloudera)**  
