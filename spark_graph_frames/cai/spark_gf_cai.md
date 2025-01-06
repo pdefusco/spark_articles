@@ -95,7 +95,7 @@ g = GraphFrame(v, e)
 |  a|  e|      friend|
 +---+---+------------+
 
-#Find the youngest user’s age in the graph. This queries the vertex DataFrame.
+# Find the youngest user’s age in the graph. This queries the vertex DataFrame.
 
 > g.vertices.groupBy().min("age").show()
 +--------+
