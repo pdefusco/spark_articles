@@ -39,7 +39,6 @@
 
 from pyspark.sql import SparkSession
 
-## If on A
 spark = SparkSession.builder.appName("MyApp") \
             .config("spark.executor.memory", "8g") \
             .config("spark.executor.cores", 4) \
@@ -48,12 +47,22 @@ spark = SparkSession.builder.appName("MyApp") \
 
 from graphframes import *
 
-drugsDf = spark.read.csv("/home/cdsw/spark_graph_frames/cai_partitioning/data/drugs-indication.csv")
-therapyDf = spark.read.csv("/home/cdsw/spark_graph_frames/cai_partitioning/data/therapy.csv")
+drugsDf = spark.read.option("delimiter", ",").option("header", True).csv("/home/cdsw/spark_graph_frames/cai_partitioning/data/drugs-indication.csv")
+therapyDf = spark.read.option("delimiter", ",").option("header", True).csv("/home/cdsw/spark_graph_frames/cai_partitioning/data/therapy.csv")
+demographicsDf = spark.read.option("delimiter", ",").option("header", True).csv("/home/cdsw/spark_graph_frames/cai_partitioning/data/demographics.csv")
+outcomeDf = spark.read.option("delimiter", ",").option("header", True).csv("/home/cdsw/spark_graph_frames/cai_partitioning/data/outcome.csv")
+reactionDf = spark.read.option("delimiter", ",").option("header", True).csv("/home/cdsw/spark_graph_frames/cai_partitioning/data/reaction.csv")
+reportSourcesDf = spark.read.option("delimiter", ",").option("header", True).csv("/home/cdsw/spark_graph_frames/cai_partitioning/data/reportSources.csv")
 
+drugsDf.show()
+therapyDf.show()
+demographicsDf.show()
+outcomeDf.show()
+reactionDf.show()
+reportSourcesDf.show()
 
 # Create a GraphFrame
-g = GraphFrame(drugsDf, therapyDf)
+g = GraphFrame(therapyDf, drugsDf)
 g.vertices.show()
 g.edges.show()
 
