@@ -1,0 +1,2 @@
+:START_ID,:END_ID,:TYPE,route,indication,doseAmount,doseUnit,drugSequence
+3452,9365,IS_INTERACTING,Unknown,Blood cholesterol increased,20,MG,2

@@ -1,0 +1,7 @@
+:ID,outcome,code,:LABEL
+4448,Death,DE,Outcome
+4449,Hospitalization - Initial or Prolonged,HO,Outcome
+4450,Other Serious (Important Medical Event),OT,Outcome
+4451,Life-Threatening,LT,Outcome
+4452,Disability,DS,Outcome
+4453,Congenital Anomaly,CA,Outcome

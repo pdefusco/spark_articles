@@ -1,0 +1,2702 @@
+:ID,description,:LABEL
+4454,Pulmonary embolism,Reaction
+4455,Klebsiella sepsis,Reaction
+4456,Myocardial infarction,Reaction
+4457,Fall,Reaction
+4458,Hip fracture,Reaction
+4459,Pain,Reaction
+4460,Body temperature increased,Reaction
+4461,COVID-19,Reaction
+4462,Cough,Reaction
+4463,Incorrect dose administered,Reaction
+4464,Nasal congestion,Reaction
+4465,Nasopharyngitis,Reaction
+4466,Oropharyngeal pain,Reaction
+4467,Product dose omission issue,Reaction
+4468,SARS-CoV-2 test positive,Reaction
+4469,Drug ineffective,Reaction
+4470,Insomnia,Reaction
+4471,Memory impairment,Reaction
+4472,Restlessness,Reaction
+4473,Diarrhoea,Reaction
+4474,Infusion related reaction,Reaction
+4475,Injection site discomfort,Reaction
+4476,Injection site swelling,Reaction
+4477,Wrist fracture,Reaction
+4478,Alopecia,Reaction
+4479,Atrial fibrillation,Reaction
+4480,Bronchitis,Reaction
+4481,Dizziness,Reaction
+4482,Feeling abnormal,Reaction
+4483,Headache,Reaction
+4484,Malaise,Reaction
+4485,Poor quality sleep,Reaction
+4486,Sinusitis,Reaction
+4487,Diverticular perforation,Reaction
+4488,Dyspnoea,Reaction
+4489,Cardiac failure congestive,Reaction
+4490,Coronary artery disease,Reaction
+4491,Sepsis,Reaction
+4492,Basal cell carcinoma,Reaction
+4493,Squamous cell carcinoma of skin,Reaction
+4494,Pancytopenia,Reaction
+4495,Pneumonia,Reaction
+4496,Dehydration,Reaction
+4497,Pneumonia respiratory syncytial viral,Reaction
+4498,Cardiac disorder,Reaction
+4499,Chest pain,Reaction
+4500,Condition aggravated,Reaction
+4501,Coronary angioplasty,Reaction
+4502,Coronary arterial stent insertion,Reaction
+4503,Libido decreased,Reaction
+4504,Migraine,Reaction
+4505,Weight decreased,Reaction
+4506,Hypotension,Reaction
+4507,Biliary dyskinesia,Reaction
+4508,Cholecystitis,Reaction
+4509,Angina pectoris,Reaction
+4510,Lower gastrointestinal haemorrhage,Reaction
+4511,Non-cardiac chest pain,Reaction
+4512,Pyrexia,Reaction
+4513,Renal failure,Reaction
+4514,Chronic gastritis,Reaction
+4515,Gastrointestinal haemorrhage,Reaction
+4516,Haemoglobin decreased,Reaction
+4517,Small intestinal haemorrhage,Reaction
+4518,Neutropenia,Reaction
+4519,Anaemia,Reaction
+4520,Pericardial effusion,Reaction
+4521,Pleural effusion,Reaction
+4522,Pancreatitis,Reaction
+4523,Chills,Reaction
+4524,Fatigue,Reaction
+4525,Eye disorder,Reaction
+4526,Eye swelling,Reaction
+4527,Herpes ophthalmic,Reaction
+4528,Visual impairment,Reaction
+4529,Septic shock,Reaction
+4530,Urinary tract infection bacterial,Reaction
+4531,Anxiety,Reaction
+4532,Autism spectrum disorder,Reaction
+4533,Fear,Reaction
+4534,Pruritus,Reaction
+4535,Rash,Reaction
+4536,Social anxiety disorder,Reaction
+4537,Cellulitis,Reaction
+4538,Feeling jittery,Reaction
+4539,Irritability,Reaction
+4540,Listless,Reaction
+4541,Off label use,Reaction
+4542,Hypertension,Reaction
+4543,Peripheral swelling,Reaction
+4544,Pollakiuria,Reaction
+4545,Restless legs syndrome,Reaction
+4546,Wheezing,Reaction
+4547,Abdominal pain upper,Reaction
+4548,Nausea,Reaction
+4549,Somnolence,Reaction
+4550,Hypersensitivity,Reaction
+4551,Deep vein thrombosis,Reaction
+4552,Dysarthria,Reaction
+4553,Gait disturbance,Reaction
+4554,Influenza,Reaction
+4555,Sensitivity to weather change,Reaction
+4556,Weight increased,Reaction
+4557,Thrombosis,Reaction
+4558,Conjunctival hyperaemia,Reaction
+4559,Macular hole,Reaction
+4560,Visual field defect,Reaction
+4561,Fluid retention,Reaction
+4562,Parkinson's disease,Reaction
+4563,Arteriovenous fistula occlusion,Reaction
+4564,Plasma cell leukaemia,Reaction
+4565,Embolism,Reaction
+4566,Testicular pain,Reaction
+4567,Clostridium difficile colitis,Reaction
+4568,Arrhythmia,Reaction
+4569,Drug interaction,Reaction
+4570,Dry mouth,Reaction
+4571,Eye irritation,Reaction
+4572,Flushing,Reaction
+4573,Hyperhidrosis,Reaction
+4574,Ill-defined disorder,Reaction
+4575,Loss of consciousness,Reaction
+4576,Seizure,Reaction
+4577,Therapeutic product effect decreased,Reaction
+4578,Therapeutic response unexpected,Reaction
+4579,Vulvovaginal burning sensation,Reaction
+4580,Drug dependence,Reaction
+4581,Neuropathy peripheral,Reaction
+4582,Withdrawal syndrome,Reaction
+4583,Laryngitis,Reaction
+4584,Mental impairment,Reaction
+4585,Appendicitis perforated,Reaction
+4586,Fistula,Reaction
+4587,Illness,Reaction
+4588,Rhinorrhoea,Reaction
+4589,Duodenal ulcer haemorrhage,Reaction
+4590,Haemodynamic instability,Reaction
+4591,Haemoptysis,Reaction
+4592,Helicobacter infection,Reaction
+4593,Inappropriate schedule of product administration,Reaction
+4594,Vascular device infection,Reaction
+4595,Mental status changes,Reaction
+4596,Productive cough,Reaction
+4597,Acute kidney injury,Reaction
+4598,Crohn's disease,Reaction
+4599,Balance disorder,Reaction
+4600,Syncope,Reaction
+4601,Pneumonia bacterial,Reaction
+4602,Asthenia,Reaction
+4603,Blood pressure abnormal,Reaction
+4604,Crying,Reaction
+4605,Depression,Reaction
+4606,Heart rate increased,Reaction
+4607,Lipids abnormal,Reaction
+4608,Nervousness,Reaction
+4609,Pneumonia influenzal,Reaction
+4610,Abdominal pain,Reaction
+4611,Anal incontinence,Reaction
+4612,Arthralgia,Reaction
+4613,Fungal infection,Reaction
+4614,Hypertriglyceridaemia,Reaction
+4615,Hypoaesthesia,Reaction
+4616,Kidney infection,Reaction
+4617,Menstruation irregular,Reaction
+4618,Suicidal ideation,Reaction
+4619,Therapeutic response decreased,Reaction
+4620,Thyroid mass,Reaction
+4621,Tooth infection,Reaction
+4622,Upper respiratory tract infection,Reaction
+4623,Urinary tract infection,Reaction
+4624,Pain in extremity,Reaction
+4625,Arthritis infective,Reaction
+4626,Pulmonary oedema,Reaction
+4627,Pneumonitis,Reaction
+4628,Cerebrovascular accident,Reaction
+4629,Drug tolerance,Reaction
+4630,Musculoskeletal stiffness,Reaction
+4631,Age-related macular degeneration,Reaction
+4632,Eye pain,Reaction
+4633,Hypoacusis,Reaction
+4634,Clostridium difficile infection,Reaction
+4635,Rectal haemorrhage,Reaction
+4636,Gingival bleeding,Reaction
+4637,Glossodynia,Reaction
+4638,Intentional product misuse,Reaction
+4639,Stomatitis,Reaction
+4640,Back pain,Reaction
+4641,Myalgia,Reaction
+4642,Muscle strain,Reaction
+4643,Panic reaction,Reaction
+4644,Speech disorder,Reaction
+4645,Erythema,Reaction
+4646,Burning sensation,Reaction
+4647,Anaphylactic reaction,Reaction
+4648,Pallor,Reaction
+4649,Respiratory rate decreased,Reaction
+4650,Tongue pruritus,Reaction
+4651,Skin tightness,Reaction
+4652,Vomiting,Reaction
+4653,Arthritis bacterial,Reaction
+4654,Compression fracture,Reaction
+4655,Febrile neutropenia,Reaction
+4656,Ear pruritus,Reaction
+4657,Peroneal nerve palsy,Reaction
+4658,Urosepsis,Reaction
+4659,Intentional product use issue,Reaction
+4660,Prescribed overdose,Reaction
+4661,Gout,Reaction
+4662,Loss of personal independence in daily activities,Reaction
+4663,Autoimmune hepatitis,Reaction
+4664,Pharyngitis streptococcal,Reaction
+4665,Death neonatal,Reaction
+4666,Maternal exposure during pregnancy,Reaction
+4667,Dermatofibrosarcoma protuberans,Reaction
+4668,Gastrooesophageal reflux disease,Reaction
+4669,Liver function test increased,Reaction
+4670,Nephrolithiasis,Reaction
+4671,Plasma cell myeloma,Reaction
+4672,Gait inability,Reaction
+4673,Contusion,Reaction
+4674,Limb injury,Reaction
+4675,Road traffic accident,Reaction
+4676,Localised infection,Reaction
+4677,Neoplasm progression,Reaction
+4678,Injection site erythema,Reaction
+4679,Injection site irritation,Reaction
+4680,Injection site reaction,Reaction
+4681,Acute respiratory failure,Reaction
+4682,Cardiac arrest,Reaction
+4683,Lethargy,Reaction
+4684,Ganglioneuroma,Reaction
+4685,Antipsychotic drug level increased,Reaction
+4686,Toxicity to various agents,Reaction
+4687,Coronavirus infection,Reaction
+4688,Diabetes mellitus,Reaction
+4689,Oral mucosal blistering,Reaction
+4690,Precancerous skin lesion,Reaction
+4691,Cerebellar infarction,Reaction
+4692,Coagulopathy,Reaction
+4693,Therapeutic product effect incomplete,Reaction
+4694,Respiratory syncytial virus infection,Reaction
+4695,Rash pruritic,Reaction
+4696,Lung infiltration,Reaction
+4697,Skin infection,Reaction
+4698,Drug withdrawal syndrome,Reaction
+4699,Feeding disorder,Reaction
+4700,Muscular weakness,Reaction
+4701,Neck pain,Reaction
+4702,Paraesthesia,Reaction
+4703,Radicular pain,Reaction
+4704,Dysphonia,Reaction
+4705,Hallucination,Reaction
+4706,Nightmare,Reaction
+4707,Palpitations,Reaction
+4708,Tremor,Reaction
+4709,Hemiparesis,Reaction
+4710,Electrolyte imbalance,Reaction
+4711,Abnormal behaviour,Reaction
+4712,Depressed mood,Reaction
+4713,Lower limb fracture,Reaction
+4714,Psychomotor hyperactivity,Reaction
+4715,Concussion,Reaction
+4716,Diplopia,Reaction
+4717,Rib fracture,Reaction
+4718,Spinal fracture,Reaction
+4719,Lipase increased,Reaction
+4720,Dyspnoea exertional,Reaction
+4721,Blood creatinine increased,Reaction
+4722,Neutrophil count decreased,Reaction
+4723,Platelet count decreased,Reaction
+4724,Breast cancer,Reaction
+4725,Epistaxis,Reaction
+4726,White blood cell count decreased,Reaction
+4727,Herpes oesophagitis,Reaction
+4728,Oesophageal candidiasis,Reaction
+4729,Pharyngeal haemorrhage,Reaction
+4730,Constipation,Reaction
+4731,Disorientation,Reaction
+4732,Dry eye,Reaction
+4733,Dry throat,Reaction
+4734,Feeling hot,Reaction
+4735,Ocular discomfort,Reaction
+4736,Vision blurred,Reaction
+4737,Dry skin,Reaction
+4738,Full blood count decreased,Reaction
+4739,Stent placement,Reaction
+4740,Thyroid disorder,Reaction
+4741,Device intolerance,Reaction
+4742,Infusion site infection,Reaction
+4743,Infusion site pain,Reaction
+4744,Respiratory failure,Reaction
+4745,Dysstasia,Reaction
+4746,Renal cancer,Reaction
+4747,Supraventricular tachycardia,Reaction
+4748,Blood pressure increased,Reaction
+4749,Blood sodium increased,Reaction
+4750,Acute myocardial infarction,Reaction
+4751,Amnesia,Reaction
+4752,Aortic stenosis,Reaction
+4753,Atrioventricular block second degree,Reaction
+4754,Bacteraemia,Reaction
+4755,Benign prostatic hyperplasia,Reaction
+4756,Blood creatine increased,Reaction
+4757,Cardiomyopathy,Reaction
+4758,Cerebellar calcification,Reaction
+4759,Cerebral atrophy,Reaction
+4760,Cerebral calcification,Reaction
+4761,Cerebral disorder,Reaction
+4762,Cerebral small vessel ischaemic disease,Reaction
+4763,Cognitive disorder,Reaction
+4764,Coronary artery stenosis,Reaction
+4765,Defect conduction intraventricular,Reaction
+4766,Disease progression,Reaction
+4767,Drug abuse,Reaction
+4768,Drug specific antibody present,Reaction
+4769,Electrocardiogram QT prolonged,Reaction
+4770,Electrocardiogram repolarisation abnormality,Reaction
+4771,End stage renal disease,Reaction
+4772,Endocarditis bacterial,Reaction
+4773,Enterococcal infection,Reaction
+4774,Feeling cold,Reaction
+4775,Haemorrhage,Reaction
+4776,Hepatitis B,Reaction
+4777,Herpes zoster,Reaction
+4778,Hypohidrosis,Reaction
+4779,Hypothyroidism,Reaction
+4780,Lacunar stroke,Reaction
+4781,Left ventricular hypertrophy,Reaction
+4782,Magnetic resonance imaging head abnormal,Reaction
+4783,Mental disorder,Reaction
+4784,Metabolic encephalopathy,Reaction
+4785,Microalbuminuria,Reaction
+4786,Mitral valve incompetence,Reaction
+4787,Mobility decreased,Reaction
+4788,Nerve injury,Reaction
+4789,Neuralgia,Reaction
+4790,Normocytic anaemia,Reaction
+4791,Overdose,Reaction
+4792,Peripheral sensory neuropathy,Reaction
+4793,Proteinuria,Reaction
+4794,Pulmonary mass,Reaction
+4795,Rehabilitation therapy,Reaction
+4796,Small fibre neuropathy,Reaction
+4797,Throat tightness,Reaction
+4798,Tinnitus,Reaction
+4799,Urticaria,Reaction
+4800,Ventricular extrasystoles,Reaction
+4801,Vestibular disorder,Reaction
+4802,Vitamin D deficiency,Reaction
+4803,White matter lesion,Reaction
+4804,Arthropathy,Reaction
+4805,Blood potassium decreased,Reaction
+4806,Ear injury,Reaction
+4807,Head injury,Reaction
+4808,Hospitalisation,Reaction
+4809,Pelvic fracture,Reaction
+4810,Asthma,Reaction
+4811,Sleep apnoea syndrome,Reaction
+4812,Obesity,Reaction
+4813,Sinus tachycardia,Reaction
+4814,Infusion site reaction,Reaction
+4815,Device related infection,Reaction
+4816,Ischaemic stroke,Reaction
+4817,Listeriosis,Reaction
+4818,Meningitis,Reaction
+4819,Subchorionic haematoma,Reaction
+4820,Cardiac tamponade,Reaction
+4821,Drug hypersensitivity,Reaction
+4822,C-reactive protein increased,Reaction
+4823,Cytokine release syndrome,Reaction
+4824,Tachycardia,Reaction
+4825,Infection,Reaction
+4826,Osteomyelitis,Reaction
+4827,Blood thyroid stimulating hormone increased,Reaction
+4828,Chest X-ray abnormal,Reaction
+4829,Cholelithiasis,Reaction
+4830,Decreased appetite,Reaction
+4831,Early satiety,Reaction
+4832,Faeces soft,Reaction
+4833,Flatulence,Reaction
+4834,Hiatus hernia,Reaction
+4835,Joint swelling,Reaction
+4836,Lacrimation increased,Reaction
+4837,Limb discomfort,Reaction
+4838,Lung disorder,Reaction
+4839,Oedema peripheral,Reaction
+4840,Palmar-plantar erythrodysaesthesia syndrome,Reaction
+4841,Sinus congestion,Reaction
+4842,Skin laceration,Reaction
+4843,Thrombocytopenia,Reaction
+4844,Thyroxine decreased,Reaction
+4845,Death,Reaction
+4846,Pneumonia legionella,Reaction
+4847,Accident,Reaction
+4848,Ankle fracture,Reaction
+4849,Arthritis,Reaction
+4850,Eating disorder,Reaction
+4851,Incorrect product administration duration,Reaction
+4852,Ligament sprain,Reaction
+4853,Cataract,Reaction
+4854,Cardiac failure,Reaction
+4855,Accidental exposure to product,Reaction
+4856,Ageusia,Reaction
+4857,Product physical issue,Reaction
+4858,Anosmia,Reaction
+4859,Dysphagia,Reaction
+4860,Lumbar spinal stenosis,Reaction
+4861,Muscle spasms,Reaction
+4862,Blood cholesterol increased,Reaction
+4863,Body height decreased,Reaction
+4864,Ejection fraction decreased,Reaction
+4865,Escherichia sepsis,Reaction
+4866,Myelodysplastic syndrome,Reaction
+4867,Myocardial ischaemia,Reaction
+4868,Systemic infection,Reaction
+4869,Hyperkalaemia,Reaction
+4870,Emotional distress,Reaction
+4871,Impaired quality of life,Reaction
+4872,Psychological trauma,Reaction
+4873,Bacterial test positive,Reaction
+4874,Bedridden,Reaction
+4875,Blood urine present,Reaction
+4876,CD4 lymphocytes decreased,Reaction
+4877,Contraindicated product administered,Reaction
+4878,Facial pain,Reaction
+4879,Gingival pain,Reaction
+4880,Haematocrit decreased,Reaction
+4881,Hypokinesia,Reaction
+4882,Joint injury,Reaction
+4883,Lymphopenia,Reaction
+4884,Mean cell haemoglobin concentration decreased,Reaction
+4885,Mean cell haemoglobin decreased,Reaction
+4886,Mean cell volume decreased,Reaction
+4887,Multiple sclerosis,Reaction
+4888,Nitrite urine present,Reaction
+4889,Protein urine present,Reaction
+4890,Red blood cells urine positive,Reaction
+4891,Red cell distribution width increased,Reaction
+4892,Sensory loss,Reaction
+4893,Toothache,Reaction
+4894,Trigeminal neuralgia,Reaction
+4895,Urine abnormality,Reaction
+4896,Urine leukocyte esterase positive,Reaction
+4897,Walking disability,Reaction
+4898,White blood cells urine positive,Reaction
+4899,Gastroenteritis viral,Reaction
+4900,Post procedural discharge,Reaction
+4901,Rhinovirus infection,Reaction
+4902,Movement disorder,Reaction
+4903,Neoplasm malignant,Reaction
+4904,Respiratory tract infection,Reaction
+4905,Appendicitis,Reaction
+4906,Human epidermal growth factor receptor decreased,Reaction
+4907,Insulin-like growth factor increased,Reaction
+4908,Sedation,Reaction
+4909,Upper limb fracture,Reaction
+4910,Viral upper respiratory tract infection,Reaction
+4911,Small intestinal obstruction,Reaction
+4912,Abdominal distension,Reaction
+4913,Carbohydrate antigen 15-3 increased,Reaction
+4914,Hepatic cirrhosis,Reaction
+4915,Colitis,Reaction
+4916,Hypokalaemia,Reaction
+4917,Diverticulitis,Reaction
+4918,Gastric disorder,Reaction
+4919,Gastric haemorrhage,Reaction
+4920,Inflammation,Reaction
+4921,Oesophagitis,Reaction
+4922,Pharyngitis,Reaction
+4923,Colonic abscess,Reaction
+4924,Feeling drunk,Reaction
+4925,Acute myeloid leukaemia,Reaction
+4926,Vertigo,Reaction
+4927,Apnoea,Reaction
+4928,Developmental delay,Reaction
+4929,Drug withdrawal syndrome neonatal,Reaction
+4930,Foetal biophysical profile score abnormal,Reaction
+4931,Foetal exposure during pregnancy,Reaction
+4932,Foetal hypokinesia,Reaction
+4933,Poor feeding infant,Reaction
+4934,Muscle rupture,Reaction
+4935,Spinal disorder,Reaction
+4936,Chronic kidney disease,Reaction
+4937,Nephropathy,Reaction
+4938,Polyuria,Reaction
+4939,Renal impairment,Reaction
+4940,Barrett's oesophagus,Reaction
+4941,Hypoparathyroidism secondary,Reaction
+4942,Nephrogenic anaemia,Reaction
+4943,Renal pain,Reaction
+4944,Renal injury,Reaction
+4945,Multiple sclerosis relapse,Reaction
+4946,Dysuria,Reaction
+4947,Haematuria,Reaction
+4948,Hypertensive nephropathy,Reaction
+4949,Renal disorder,Reaction
+4950,Ureteral disorder,Reaction
+4951,Urinary incontinence,Reaction
+4952,Affect lability,Reaction
+4953,Chronic kidney disease-mineral and bone disorder,Reaction
+4954,Patient isolation,Reaction
+4955,Anger,Reaction
+4956,Bronchiectasis,Reaction
+4957,Cerebral haemorrhage,Reaction
+4958,Coma,Reaction
+4959,Deafness,Reaction
+4960,Deafness unilateral,Reaction
+4961,Femur fracture,Reaction
+4962,Multiple fractures,Reaction
+4963,Psychotic disorder,Reaction
+4964,Scapula fracture,Reaction
+4965,Somnambulism,Reaction
+4966,Diabetic ketoacidosis,Reaction
+4967,Aortic dilatation,Reaction
+4968,Essential hypertension,Reaction
+4969,Lung hyperinflation,Reaction
+4970,Pneumonia aspiration,Reaction
+4971,Acidosis,Reaction
+4972,Activated partial thromboplastin time prolonged,Reaction
+4973,Agitation,Reaction
+4974,Alanine aminotransferase increased,Reaction
+4975,Arthropod bite,Reaction
+4976,Aspartate aminotransferase increased,Reaction
+4977,Blood antidiuretic hormone abnormal,Reaction
+4978,Conjunctival haemorrhage,Reaction
+4979,Discomfort,Reaction
+4980,Hypocalcaemia,Reaction
+4981,Hyponatraemia,Reaction
+4982,Hypophosphataemia,Reaction
+4983,Hypoxia,Reaction
+4984,International normalised ratio increased,Reaction
+4985,Lymphocyte count decreased,Reaction
+4986,Photophobia,Reaction
+4987,Skin lesion,Reaction
+4988,Viral infection,Reaction
+4989,White blood cell count,Reaction
+4990,Circumstance or information capable of leading to medication error,Reaction
+4991,Device breakage,Reaction
+4992,Product leakage,Reaction
+4993,Alopecia areata,Reaction
+4994,Hair colour changes,Reaction
+4995,Hair texture abnormal,Reaction
+4996,Madarosis,Reaction
+4997,Intestinal perforation,Reaction
+4998,Malnutrition,Reaction
+4999,Blister,Reaction
+5000,Haematochezia,Reaction
+5001,Irritable bowel syndrome,Reaction
+5002,Lumbar vertebral fracture,Reaction
+5003,Perioral dermatitis,Reaction
+5004,Scar,Reaction
+5005,Vascular dementia,Reaction
+5006,Transient ischaemic attack,Reaction
+5007,Immune system disorder,Reaction
+5008,Limb mass,Reaction
+5009,Product prescribing error,Reaction
+5010,Rhinitis allergic,Reaction
+5011,Tenderness,Reaction
+5012,Upper-airway cough syndrome,Reaction
+5013,Aggression,Reaction
+5014,Dyskinesia,Reaction
+5015,Prescribed underdose,Reaction
+5016,Underdose,Reaction
+5017,Tooth abscess,Reaction
+5018,Azotaemia,Reaction
+5019,Blood lactic acid increased,Reaction
+5020,Blood thyroid stimulating hormone decreased,Reaction
+5021,Confusional state,Reaction
+5022,Drug reaction with eosinophilia and systemic symptoms,Reaction
+5023,Epigastric discomfort,Reaction
+5024,Hypernatraemia,Reaction
+5025,Metabolic acidosis,Reaction
+5026,Nephropathy toxic,Reaction
+5027,Amenorrhoea,Reaction
+5028,Asthma exercise induced,Reaction
+5029,Colon cancer,Reaction
+5030,Polycystic ovaries,Reaction
+5031,Pre-existing condition improved,Reaction
+5032,Rectal adenocarcinoma,Reaction
+5033,Aortic thrombosis,Reaction
+5034,Skin exfoliation,Reaction
+5035,Skin cancer,Reaction
+5036,Bone pain,Reaction
+5037,Blood luteinising hormone increased,Reaction
+5038,Injection site rash,Reaction
+5039,Low density lipoprotein increased,Reaction
+5040,Pleurisy,Reaction
+5041,Vitamin D decreased,Reaction
+5042,Throat irritation,Reaction
+5043,Aphasia,Reaction
+5044,Blood magnesium abnormal,Reaction
+5045,Injection site bruising,Reaction
+5046,Needle issue,Reaction
+5047,Enterocolitis,Reaction
+5048,Orthostatic hypotension,Reaction
+5049,Ear infection,Reaction
+5050,Hereditary angioedema,Reaction
+5051,Depressed level of consciousness,Reaction
+5052,Drug intolerance,Reaction
+5053,Enterocolitis bacterial,Reaction
+5054,Therapy cessation,Reaction
+5055,Sinus disorder,Reaction
+5056,Fracture,Reaction
+5057,Hair disorder,Reaction
+5058,Cardiac pacemaker insertion,Reaction
+5059,Defaecation disorder,Reaction
+5060,Gallbladder disorder,Reaction
+5061,Intestinal obstruction,Reaction
+5062,Night sweats,Reaction
+5063,Bone density increased,Reaction
+5064,Device mechanical issue,Reaction
+5065,Drug dose omission by device,Reaction
+5066,Incorrect dose administered by device,Reaction
+5067,Hypoglycaemia,Reaction
+5068,Drug ineffective for unapproved indication,Reaction
+5069,Blood glucose increased,Reaction
+5070,Blood growth hormone increased,Reaction
+5071,Blood prolactin increased,Reaction
+5072,High density lipoprotein decreased,Reaction
+5073,Red blood cell count decreased,Reaction
+5074,Clumsiness,Reaction
+5075,Head discomfort,Reaction
+5076,"Hallucination, auditory",Reaction
+5077,Chronic obstructive pulmonary disease,Reaction
+5078,Emphysema,Reaction
+5079,Blood alkaline phosphatase increased,Reaction
+5080,Encephalopathy,Reaction
+5081,Tumour lysis syndrome,Reaction
+5082,Colon cancer stage IV,Reaction
+5083,Impaired work ability,Reaction
+5084,Abdominal discomfort,Reaction
+5085,Ear pain,Reaction
+5086,Injection site pruritus,Reaction
+5087,Injection site scab,Reaction
+5088,Injection site urticaria,Reaction
+5089,Injection site warmth,Reaction
+5090,Scratch,Reaction
+5091,Swelling face,Reaction
+5092,Breast discolouration,Reaction
+5093,Clostridium test positive,Reaction
+5094,Influenza like illness,Reaction
+5095,Injection site mass,Reaction
+5096,Lymphadenopathy,Reaction
+5097,Spinal pain,Reaction
+5098,Therapy interrupted,Reaction
+5099,Colitis ischaemic,Reaction
+5100,Neck injury,Reaction
+5101,Hepatic enzyme increased,Reaction
+5102,Back disorder,Reaction
+5103,Measles,Reaction
+5104,Musculoskeletal disorder,Reaction
+5105,Ocular hyperaemia,Reaction
+5106,Skin disorder,Reaction
+5107,Weight abnormal,Reaction
+5108,Anhedonia,Reaction
+5109,Economic problem,Reaction
+5110,Rash maculo-papular,Reaction
+5111,Dyspepsia,Reaction
+5112,Gastrointestinal disorder,Reaction
+5113,Medication error,Reaction
+5114,Taste disorder,Reaction
+5115,Device issue,Reaction
+5116,Expired device used,Reaction
+5117,Wrong technique in device usage process,Reaction
+5118,Extrasystoles,Reaction
+5119,Heart rate irregular,Reaction
+5120,Haematoma,Reaction
+5121,Influenza A virus test positive,Reaction
+5122,Parainfluenzae virus infection,Reaction
+5123,Venoocclusive liver disease,Reaction
+5124,Heart valve incompetence,Reaction
+5125,Incorrect drug administration rate,Reaction
+5126,Malabsorption,Reaction
+5127,Pancreatic disorder,Reaction
+5128,Glaucoma,Reaction
+5129,Bowen's disease,Reaction
+5130,Keratoacanthoma,Reaction
+5131,Abdominal tenderness,Reaction
+5132,Anuria,Reaction
+5133,Blood bilirubin increased,Reaction
+5134,Blood urea increased,Reaction
+5135,Blood uric acid increased,Reaction
+5136,Cholestasis,Reaction
+5137,Diffuse large B-cell lymphoma recurrent,Reaction
+5138,Enteritis,Reaction
+5139,Fluid overload,Reaction
+5140,Haemophagocytic lymphohistiocytosis,Reaction
+5141,Hepatic function abnormal,Reaction
+5142,Hypercalcaemia,Reaction
+5143,Hypofibrinogenaemia,Reaction
+5144,Immunodeficiency,Reaction
+5145,Inflammatory marker increased,Reaction
+5146,Jaundice cholestatic,Reaction
+5147,Malignant neoplasm progression,Reaction
+5148,Multiple organ dysfunction syndrome,Reaction
+5149,Ocular icterus,Reaction
+5150,Serum ferritin increased,Reaction
+5151,Splenomegaly,Reaction
+5152,Tachypnoea,Reaction
+5153,Transaminases increased,Reaction
+5154,Oxygen saturation decreased,Reaction
+5155,Pharyngeal swelling,Reaction
+5156,Sputum discoloured,Reaction
+5157,Hydronephrosis,Reaction
+5158,Ureterolithiasis,Reaction
+5159,Injection site pain,Reaction
+5160,Liquid product physical issue,Reaction
+5161,Wrong technique in product usage process,Reaction
+5162,Fungal oesophagitis,Reaction
+5163,Immunosuppression,Reaction
+5164,Abdominal hernia,Reaction
+5165,Choking,Reaction
+5166,Incisional hernia,Reaction
+5167,Retching,Reaction
+5168,Suspected counterfeit product,Reaction
+5169,Umbilical hernia,Reaction
+5170,Adenovirus infection,Reaction
+5171,Anal abscess,Reaction
+5172,Cytopenia,Reaction
+5173,Enterobacter infection,Reaction
+5174,Face oedema,Reaction
+5175,Gastric dilatation,Reaction
+5176,Graft versus host disease in gastrointestinal tract,Reaction
+5177,Hepatic failure,Reaction
+5178,Leukaemia recurrent,Reaction
+5179,Proctalgia,Reaction
+5180,Pulseless electrical activity,Reaction
+5181,Skin warm,Reaction
+5182,Therapy non-responder,Reaction
+5183,Blindness,Reaction
+5184,Suspected transmission of an infectious agent via product,Reaction
+5185,Basophil count increased,Reaction
+5186,"Blood 1,25-dihydroxycholecalciferol decreased",Reaction
+5187,Blood calcium decreased,Reaction
+5188,Blood chloride decreased,Reaction
+5189,Blood testosterone decreased,Reaction
+5190,Blood triglycerides increased,Reaction
+5191,Cortisol decreased,Reaction
+5192,Eosinophil count increased,Reaction
+5193,Glycosylated haemoglobin increased,Reaction
+5194,Hyperlipidaemia,Reaction
+5195,Hypogonadism,Reaction
+5196,Insulin-like growth factor abnormal,Reaction
+5197,Monocyte count increased,Reaction
+5198,Pituitary tumour,Reaction
+5199,Respiratory tract infection viral,Reaction
+5200,Cystitis,Reaction
+5201,Dementia,Reaction
+5202,Expired product administered,Reaction
+5203,Hand fracture,Reaction
+5204,Disseminated varicella zoster virus infection,Reaction
+5205,Product use in unapproved indication,Reaction
+5206,Cold sweat,Reaction
+5207,Suicide threat,Reaction
+5208,Wrong strength,Reaction
+5209,Disease recurrence,Reaction
+5210,Paranoia,Reaction
+5211,Product dispensing error,Reaction
+5212,Mass,Reaction
+5213,Poor venous access,Reaction
+5214,Vein disorder,Reaction
+5215,Areflexia,Reaction
+5216,Disturbance in attention,Reaction
+5217,Miliaria,Reaction
+5218,Muscle rigidity,Reaction
+5219,Nystagmus,Reaction
+5220,Tetanus,Reaction
+5221,Back injury,Reaction
+5222,Stress,Reaction
+5223,Ureteric obstruction,Reaction
+5224,Neutropenic sepsis,Reaction
+5225,Metastases to central nervous system,Reaction
+5226,Skin atrophy,Reaction
+5227,Sleep disorder,Reaction
+5228,Haemorrhage intracranial,Reaction
+5229,Traumatic fracture,Reaction
+5230,Product storage error,Reaction
+5231,Cardiomegaly,Reaction
+5232,Bone density decreased,Reaction
+5233,Device leakage,Reaction
+5234,Device use issue,Reaction
+5235,Musculoskeletal discomfort,Reaction
+5236,Vaccination complication,Reaction
+5237,Ventricular tachycardia,Reaction
+5238,Drug effective for unapproved indication,Reaction
+5239,Product physical consistency issue,Reaction
+5240,Product use issue,Reaction
+5241,Renal atrophy,Reaction
+5242,Cerebral thrombosis,Reaction
+5243,Peripheral coldness,Reaction
+5244,Spinal cord compression,Reaction
+5245,Sinus node dysfunction,Reaction
+5246,Joint range of motion decreased,Reaction
+5247,Moaning,Reaction
+5248,Gastrointestinal infection,Reaction
+5249,Volvulus,Reaction
+5250,Adrenal insufficiency,Reaction
+5251,Eczema,Reaction
+5252,Therapeutic response shortened,Reaction
+5253,Product adhesion issue,Reaction
+5254,Joint stiffness,Reaction
+5255,Laryngospasm,Reaction
+5256,Mouth haemorrhage,Reaction
+5257,Bone disorder,Reaction
+5258,Fibromyalgia,Reaction
+5259,Foot fracture,Reaction
+5260,Nephritis,Reaction
+5261,Renal mass,Reaction
+5262,Tubulointerstitial nephritis,Reaction
+5263,Autoimmune thyroiditis,Reaction
+5264,Nerve compression,Reaction
+5265,Osteoarthritis,Reaction
+5266,Candida infection,Reaction
+5267,Product quality issue,Reaction
+5268,Pneumonia herpes viral,Reaction
+5269,Infusion site scar,Reaction
+5270,Acute lymphocytic leukaemia recurrent,Reaction
+5271,Facial paralysis,Reaction
+5272,Hypogammaglobulinaemia,Reaction
+5273,Motor dysfunction,Reaction
+5274,Neurotoxicity,Reaction
+5275,Paraparesis,Reaction
+5276,Maculopathy,Reaction
+5277,Retinopathy,Reaction
+5278,Hip arthroplasty,Reaction
+5279,Autonomic failure syndrome,Reaction
+5280,Brain neoplasm benign,Reaction
+5281,Albuminuria,Reaction
+5282,Diabetic neuropathy,Reaction
+5283,Osteoporosis,Reaction
+5284,Rheumatoid arthritis,Reaction
+5285,Urinary retention,Reaction
+5286,Addison's disease,Reaction
+5287,Liver abscess,Reaction
+5288,Hyperglycaemia,Reaction
+5289,Ataxia,Reaction
+5290,Hyperviscosity syndrome,Reaction
+5291,Device occlusion,Reaction
+5292,Prostate cancer,Reaction
+5293,General physical health deterioration,Reaction
+5294,Oligomenorrhoea,Reaction
+5295,Vaginal cuff dehiscence,Reaction
+5296,Enterocolitis infectious,Reaction
+5297,Metastases to kidney,Reaction
+5298,Arteriovenous malformation,Reaction
+5299,Upper gastrointestinal haemorrhage,Reaction
+5300,Panic disorder,Reaction
+5301,Dependence on respirator,Reaction
+5302,Respiratory syncytial virus bronchiolitis,Reaction
+5303,Urine output decreased,Reaction
+5304,Insurance issue,Reaction
+5305,Pneumonia streptococcal,Reaction
+5306,Superior vena cava syndrome,Reaction
+5307,Pain of skin,Reaction
+5308,B-cell aplasia,Reaction
+5309,Blood creatine phosphokinase increased,Reaction
+5310,Blood fibrinogen decreased,Reaction
+5311,Capillary leak syndrome,Reaction
+5312,Glomerular filtration rate decreased,Reaction
+5313,Intensive care unit delirium,Reaction
+5314,Myoglobinuria,Reaction
+5315,Oliguria,Reaction
+5316,Physical deconditioning,Reaction
+5317,Renal tubular necrosis,Reaction
+5318,Jaw disorder,Reaction
+5319,Tooth disorder,Reaction
+5320,Carpal tunnel syndrome,Reaction
+5321,Internal hernia,Reaction
+5322,Strangulated hernia,Reaction
+5323,Respiratory distress,Reaction
+5324,Metastases to liver,Reaction
+5325,Oesophageal carcinoma,Reaction
+5326,Oesophageal stenosis,Reaction
+5327,Pulmonary fibrosis,Reaction
+5328,Angioedema,Reaction
+5329,Infusion site swelling,Reaction
+5330,Pancreatic carcinoma,Reaction
+5331,Lymphoedema,Reaction
+5332,Swelling,Reaction
+5333,Abdominal infection,Reaction
+5334,Small intestinal perforation,Reaction
+5335,Unevaluable event,Reaction
+5336,Chronic respiratory failure,Reaction
+5337,Neurogenic bladder,Reaction
+5338,Procedural anxiety,Reaction
+5339,Prostatomegaly,Reaction
+5340,Unresponsive to stimuli,Reaction
+5341,Urinary tract infection enterococcal,Reaction
+5342,Urinary tract infection pseudomonal,Reaction
+5343,Injection site extravasation,Reaction
+5344,Systemic immune activation,Reaction
+5345,Blood electrolytes decreased,Reaction
+5346,Eye pruritus,Reaction
+5347,Maternal exposure during breast feeding,Reaction
+5348,Extra dose administered,Reaction
+5349,Recalled product,Reaction
+5350,Tetany,Reaction
+5351,Subcutaneous abscess,Reaction
+5352,Aphonia,Reaction
+5353,Foreign body in throat,Reaction
+5354,Product residue present,Reaction
+5355,Saliva discolouration,Reaction
+5356,Seasonal allergy,Reaction
+5357,Skeletal injury,Reaction
+5358,Device delivery system issue,Reaction
+5359,Device difficult to use,Reaction
+5360,Hip surgery,Reaction
+5361,Electrocardiogram PR shortened,Reaction
+5362,Electrocardiogram T wave abnormal,Reaction
+5363,Electrocardiogram abnormal,Reaction
+5364,Hypoaesthesia oral,Reaction
+5365,Gastrointestinal motility disorder,Reaction
+5366,Granuloma annulare,Reaction
+5367,Hot flush,Reaction
+5368,Pain in jaw,Reaction
+5369,Acute respiratory distress syndrome,Reaction
+5370,Aspiration,Reaction
+5371,Portal vein thrombosis,Reaction
+5372,Rash erythematous,Reaction
+5373,Incision site vesicles,Reaction
+5374,Bacterial infection,Reaction
+5375,Sneezing,Reaction
+5376,Achromobacter infection,Reaction
+5377,Hyperphosphataemia,Reaction
+5378,Metastases to bone,Reaction
+5379,Ear disorder,Reaction
+5380,Neoplasm,Reaction
+5381,Presyncope,Reaction
+5382,Atrial flutter,Reaction
+5383,Infusion site erythema,Reaction
+5384,Device information output issue,Reaction
+5385,Device power source issue,Reaction
+5386,Nipple disorder,Reaction
+5387,Adverse drug reaction,Reaction
+5388,Blood test abnormal,Reaction
+5389,Conjunctivitis,Reaction
+5390,Biopsy bone marrow,Reaction
+5391,Catheter site pain,Reaction
+5392,Oral candidiasis,Reaction
+5393,Streptococcal infection,Reaction
+5394,Respiratory tract infection bacterial,Reaction
+5395,Vitreous haemorrhage,Reaction
+5396,Therapeutic product effect delayed,Reaction
+5397,Acute leukaemia,Reaction
+5398,Allergy to immunoglobulin therapy,Reaction
+5399,Hypophysitis,Reaction
+5400,Fibula fracture,Reaction
+5401,Impaired healing,Reaction
+5402,Postoperative wound infection,Reaction
+5403,Tendonitis,Reaction
+5404,Meniscus injury,Reaction
+5405,Psoriatic arthropathy,Reaction
+5406,Inability to afford medication,Reaction
+5407,Increased upper airway secretion,Reaction
+5408,Psoriasis,Reaction
+5409,Red blood cell sedimentation rate increased,Reaction
+5410,Atypical pneumonia,Reaction
+5411,Oral pain,Reaction
+5412,Glioblastoma multiforme,Reaction
+5413,COVID-19 pneumonia,Reaction
+5414,Self-medication,Reaction
+5415,Accident at home,Reaction
+5416,Immunoglobulins decreased,Reaction
+5417,Osteochondrosis,Reaction
+5418,Pseudomonas infection,Reaction
+5419,Acute lymphocytic leukaemia,Reaction
+5420,Cytomegalovirus chorioretinitis,Reaction
+5421,Encephalitis cytomegalovirus,Reaction
+5422,Inappropriate antidiuretic hormone secretion,Reaction
+5423,Paralysis,Reaction
+5424,Spinal cord oedema,Reaction
+5425,COVID-19 immunisation,Reaction
+5426,Device malfunction,Reaction
+5427,Product administration error,Reaction
+5428,Product distribution issue,Reaction
+5429,Product reconstitution quality issue,Reaction
+5430,Blood sodium decreased,Reaction
+5431,Vitamin B1 decreased,Reaction
+5432,Cardiac failure chronic,Reaction
+5433,Oropharyngeal discomfort,Reaction
+5434,Spasmodic dysphonia,Reaction
+5435,Device infusion issue,Reaction
+5436,Walking aid user,Reaction
+5437,Disseminated toxoplasmosis,Reaction
+5438,Musculoskeletal pain,Reaction
+5439,Sensation of foreign body,Reaction
+5440,Gastrostomy tube site complication,Reaction
+5441,Joint lock,Reaction
+5442,Muscle atrophy,Reaction
+5443,Regurgitation,Reaction
+5444,Stoma site infection,Reaction
+5445,Norovirus infection,Reaction
+5446,Acute coronary syndrome,Reaction
+5447,Post procedural infection,Reaction
+5448,Spinal fusion surgery,Reaction
+5449,Lower respiratory tract infection,Reaction
+5450,Diarrhoea haemorrhagic,Reaction
+5451,Sluggishness,Reaction
+5452,Respiratory symptom,Reaction
+5453,Respiratory tract congestion,Reaction
+5454,Chest discomfort,Reaction
+5455,Ligament rupture,Reaction
+5456,Oral herpes,Reaction
+5457,Tongue disorder,Reaction
+5458,Human chorionic gonadotropin increased,Reaction
+5459,Brain injury,Reaction
+5460,Weight fluctuation,Reaction
+5461,Wound infection,Reaction
+5462,Endometriosis,Reaction
+5463,Ovarian cyst,Reaction
+5464,Optic ischaemic neuropathy,Reaction
+5465,Abdominal abscess,Reaction
+5466,Pelvic abscess,Reaction
+5467,Circulatory collapse,Reaction
+5468,Panniculitis,Reaction
+5469,Bladder mass,Reaction
+5470,Lymphoma,Reaction
+5471,Atrioventricular block,Reaction
+5472,Bradycardia,Reaction
+5473,Joint dislocation,Reaction
+5474,Muscle haemorrhage,Reaction
+5475,Spontaneous haemorrhage,Reaction
+5476,Mycotic allergy,Reaction
+5477,Amino acid level decreased,Reaction
+5478,Blood albumin decreased,Reaction
+5479,Hypercalciuria,Reaction
+5480,Body temperature abnormal,Reaction
+5481,Abnormal dreams,Reaction
+5482,Blood cholesterol abnormal,Reaction
+5483,Epstein-Barr virus infection,Reaction
+5484,Spinal stenosis,Reaction
+5485,Multiple allergies,Reaction
+5486,Obstruction,Reaction
+5487,Full blood count increased,Reaction
+5488,Complication of device removal,Reaction
+5489,Embedded device,Reaction
+5490,Uterine haemorrhage,Reaction
+5491,Throat lesion,Reaction
+5492,Infusion site extravasation,Reaction
+5493,Rash vesicular,Reaction
+5494,Nasal discomfort,Reaction
+5495,Gastrointestinal stoma output increased,Reaction
+5496,Product availability issue,Reaction
+5497,Abortion spontaneous,Reaction
+5498,Infective pulmonary exacerbation of cystic fibrosis,Reaction
+5499,Acne,Reaction
+5500,Dysgeusia,Reaction
+5501,Heavy menstrual bleeding,Reaction
+5502,Rash papular,Reaction
+5503,Thyroid gland abscess,Reaction
+5504,Tongue discomfort,Reaction
+5505,Mycobacterial infection,Reaction
+5506,Eyelid thickening,Reaction
+5507,Gingivitis,Reaction
+5508,Infusion site haemorrhage,Reaction
+5509,Non-Hodgkin's lymphoma,Reaction
+5510,Post procedural complication,Reaction
+5511,Skin mass,Reaction
+5512,Immune-mediated hepatitis,Reaction
+5513,Liver injury,Reaction
+5514,Odynophagia,Reaction
+5515,Blood count abnormal,Reaction
+5516,Infusion site pruritus,Reaction
+5517,Vascular injury,Reaction
+5518,Cardiac ablation,Reaction
+5519,Adverse reaction,Reaction
+5520,Infusion site discomfort,Reaction
+5521,Intraocular pressure increased,Reaction
+5522,Oxygen saturation abnormal,Reaction
+5523,Spinal operation,Reaction
+5524,Fungal pharyngitis,Reaction
+5525,Gastrointestinal perforation,Reaction
+5526,Injection site discolouration,Reaction
+5527,Injection site haemorrhage,Reaction
+5528,Medical device implantation,Reaction
+5529,Ulcer haemorrhage,Reaction
+5530,Cholecystectomy,Reaction
+5531,Gastric bypass,Reaction
+5532,Hernia repair,Reaction
+5533,Chromaturia,Reaction
+5534,Aortic injury,Reaction
+5535,Bite,Reaction
+5536,Groin pain,Reaction
+5537,Pulmonary haemorrhage,Reaction
+5538,Swollen tongue,Reaction
+5539,White coat hypertension,Reaction
+5540,Blindness unilateral,Reaction
+5541,Exposure to radiation,Reaction
+5542,Application site burn,Reaction
+5543,Application site discolouration,Reaction
+5544,Application site pain,Reaction
+5545,Application site pruritus,Reaction
+5546,Application site rash,Reaction
+5547,Application site scar,Reaction
+5548,Application site wound,Reaction
+5549,Dermatitis contact,Reaction
+5550,Drug tolerance decreased,Reaction
+5551,Inadequate analgesia,Reaction
+5552,Injury,Reaction
+5553,Oesophageal squamous cell carcinoma,Reaction
+5554,Acquired cystic kidney disease,Reaction
+5555,Bone loss,Reaction
+5556,Polyarteritis nodosa,Reaction
+5557,Tooth loss,Reaction
+5558,Cholecystitis acute,Reaction
+5559,Iron overload,Reaction
+5560,Behaviour disorder,Reaction
+5561,Pharyngeal erythema,Reaction
+5562,Delirium,Reaction
+5563,Central venous catheter removal,Reaction
+5564,Central venous catheterisation,Reaction
+5565,Nail infection,Reaction
+5566,Platelet disorder,Reaction
+5567,Familial tremor,Reaction
+5568,Bladder cancer,Reaction
+5569,Chronic lymphocytic leukaemia,Reaction
+5570,Pyoderma gangrenosum,Reaction
+5571,Sinus headache,Reaction
+5572,Accidental overdose,Reaction
+5573,Hypophagia,Reaction
+5574,Adverse event,Reaction
+5575,Photopsia,Reaction
+5576,Product label issue,Reaction
+5577,Haemorrhagic transformation stroke,Reaction
+5578,Colonoscopy abnormal,Reaction
+5579,Foot operation,Reaction
+5580,Gastroenteritis norovirus,Reaction
+5581,Pemphigoid,Reaction
+5582,Large intestine infection,Reaction
+5583,Aspartate aminotransferase abnormal,Reaction
+5584,Cells in urine,Reaction
+5585,Glucose urine present,Reaction
+5586,Urinary casts present,Reaction
+5587,Urinary occult blood positive,Reaction
+5588,Urine protein/creatinine ratio increased,Reaction
+5589,Blood parathyroid hormone increased,Reaction
+5590,Creatinine urine abnormal,Reaction
+5591,Urine protein/creatinine ratio abnormal,Reaction
+5592,Urinary casts,Reaction
+5593,Crystal urine present,Reaction
+5594,Urinary sediment present,Reaction
+5595,Pneumothorax,Reaction
+5596,Cardiac operation,Reaction
+5597,Local reaction,Reaction
+5598,Carpal tunnel decompression,Reaction
+5599,Leukoplakia oral,Reaction
+5600,Hodgkin's disease,Reaction
+5601,Fluid imbalance,Reaction
+5602,Blood alkaline phosphatase decreased,Reaction
+5603,Bronchiolitis,Reaction
+5604,Cyanosis,Reaction
+5605,Increased bronchial secretion,Reaction
+5606,Pneumonia staphylococcal,Reaction
+5607,Salivary hypersecretion,Reaction
+5608,Tracheitis,Reaction
+5609,Cystitis interstitial,Reaction
+5610,Knee arthroplasty,Reaction
+5611,Middle ear effusion,Reaction
+5612,Pleural rub,Reaction
+5613,Malignant melanoma,Reaction
+5614,Leukaemia,Reaction
+5615,Stem cell transplant,Reaction
+5616,Ear swelling,Reaction
+5617,Liver disorder,Reaction
+5618,Decreased immune responsiveness,Reaction
+5619,Disability,Reaction
+5620,Oesophageal ulcer,Reaction
+5621,Meniere's disease,Reaction
+5622,Animal bite,Reaction
+5623,Infected bite,Reaction
+5624,Infusion site rash,Reaction
+5625,Infusion site urticaria,Reaction
+5626,Brain oedema,Reaction
+5627,Gastroenteritis,Reaction
+5628,Renal transplant,Reaction
+5629,Faecaloma,Reaction
+5630,Gastrointestinal scarring,Reaction
+5631,Gastrostomy,Reaction
+5632,Large intestinal stenosis,Reaction
+5633,Small intestinal stenosis,Reaction
+5634,Weight gain poor,Reaction
+5635,Acute hepatic failure,Reaction
+5636,Cardio-respiratory arrest,Reaction
+5637,Suspected COVID-19,Reaction
+5638,Serotonin syndrome,Reaction
+5639,Oesophagogastric fundoplasty,Reaction
+5640,Product packaging issue,Reaction
+5641,Product administration interrupted,Reaction
+5642,Blood glucose fluctuation,Reaction
+5643,Nocturia,Reaction
+5644,Tardive dyskinesia,Reaction
+5645,Diabetic nephropathy,Reaction
+5646,Dialysis,Reaction
+5647,Enteritis infectious,Reaction
+5648,Staphylococcal infection,Reaction
+5649,Blood lactate dehydrogenase increased,Reaction
+5650,Leukocytosis,Reaction
+5651,Neck surgery,Reaction
+5652,Flank pain,Reaction
+5653,Failure to suspend medication,Reaction
+5654,Injury associated with device,Reaction
+5655,Lipids increased,Reaction
+5656,Post-traumatic stress disorder,Reaction
+5657,Blood iron decreased,Reaction
+5658,Mole excision,Reaction
+5659,Tracheal disorder,Reaction
+5660,Femoral neck fracture,Reaction
+5661,Osteonecrosis,Reaction
+5662,Osteopenia,Reaction
+5663,Clonus,Reaction
+5664,Epilepsy,Reaction
+5665,Facial spasm,Reaction
+5666,Major depression,Reaction
+5667,Obstruction gastric,Reaction
+5668,Tic,Reaction
+5669,Endobronchial valve implantation,Reaction
+5670,Heart valve operation,Reaction
+5671,Lung volume reduction surgery,Reaction
+5672,Pulmonary congestion,Reaction
+5673,Hypertensive urgency,Reaction
+5674,Laryngeal cancer,Reaction
+5675,Wound,Reaction
+5676,Alcoholism,Reaction
+5677,Loss of libido,Reaction
+5678,Near death experience,Reaction
+5679,Quality of life decreased,Reaction
+5680,Substance abuse,Reaction
+5681,Coordination abnormal,Reaction
+5682,Monoplegia,Reaction
+5683,Patella fracture,Reaction
+5684,Alanine aminotransferase abnormal,Reaction
+5685,Laboratory test interference,Reaction
+5686,Pyuria,Reaction
+5687,Laboratory test abnormal,Reaction
+5688,Renal function test abnormal,Reaction
+5689,Cardiac hypertrophy,Reaction
+5690,Completed suicide,Reaction
+5691,Feeling guilty,Reaction
+5692,Impaired driving ability,Reaction
+5693,Suicide attempt,Reaction
+5694,Autoimmune disorder,Reaction
+5695,Hypersomnia,Reaction
+5696,Impaired gastric emptying,Reaction
+5697,Micturition urgency,Reaction
+5698,Axillary pain,Reaction
+5699,Breast pain,Reaction
+5700,Cerebrospinal fluid leakage,Reaction
+5701,Infusion site warmth,Reaction
+5702,Rash macular,Reaction
+5703,Jugular vein thrombosis,Reaction
+5704,Metastases to lung,Reaction
+5705,Metastases to peritoneum,Reaction
+5706,Ovarian cancer,Reaction
+5707,Pyelocaliectasis,Reaction
+5708,Squamous cell carcinoma of the cervix,Reaction
+5709,Delusion,Reaction
+5710,Dermatitis psoriasiform,Reaction
+5711,Blood pressure decreased,Reaction
+5712,Abdominal pain lower,Reaction
+5713,B-lymphocyte count decreased,Reaction
+5714,Blood pressure measurement,Reaction
+5715,Facial bones fracture,Reaction
+5716,Finger amputation,Reaction
+5717,Focal dyscognitive seizures,Reaction
+5718,Intraductal papillary mucinous neoplasm,Reaction
+5719,Neutrophil count,Reaction
+5720,Plague,Reaction
+5721,Treatment failure,Reaction
+5722,White blood cell disorder,Reaction
+5723,Poor quality product administered,Reaction
+5724,Product dose omission in error,Reaction
+5725,Bladder pain,Reaction
+5726,Central nervous system lesion,Reaction
+5727,Muscle spasticity,Reaction
+5728,Muscle twitching,Reaction
+5729,Normal newborn,Reaction
+5730,Skin burning sensation,Reaction
+5731,Ileus,Reaction
+5732,Cardiorenal syndrome,Reaction
+5733,Device dependence,Reaction
+5734,Focal segmental glomerulosclerosis,Reaction
+5735,Glomerulonephritis chronic,Reaction
+5736,Haemodialysis,Reaction
+5737,Intercapillary glomerulosclerosis,Reaction
+5738,Kidney fibrosis,Reaction
+5739,Nephritic syndrome,Reaction
+5740,Pyelonephritis,Reaction
+5741,Renal colic,Reaction
+5742,Renal cyst,Reaction
+5743,Renal haematoma,Reaction
+5744,Renal tubular atrophy,Reaction
+5745,Moyamoya disease,Reaction
+5746,Intervertebral disc protrusion,Reaction
+5747,Ear discomfort,Reaction
+5748,Bruxism,Reaction
+5749,Intervertebral disc degeneration,Reaction
+5750,Product closure issue,Reaction
+5751,Procedural complication,Reaction
+5752,Exposure during pregnancy,Reaction
+5753,Coronary artery occlusion,Reaction
+5754,Abscess fungal,Reaction
+5755,Cartilage injury,Reaction
+5756,Connective tissue disorder,Reaction
+5757,Ehlers-Danlos syndrome,Reaction
+5758,Lack of injection site rotation,Reaction
+5759,Lactic acidosis,Reaction
+5760,Thoracic operation,Reaction
+5761,Tracheal operation,Reaction
+5762,Tracheomalacia,Reaction
+5763,Eye inflammation,Reaction
+5764,Plasmapheresis,Reaction
+5765,Rotator cuff syndrome,Reaction
+5766,Rectal prolapse,Reaction
+5767,Blood immunoglobulin A decreased,Reaction
+5768,Colonoscopy,Reaction
+5769,Hepatic cancer metastatic,Reaction
+5770,Pancreatic neuroendocrine tumour,Reaction
+5771,Pulse abnormal,Reaction
+5772,Anaphylactic shock,Reaction
+5773,Respiratory disorder,Reaction
+5774,Invasive lobular breast carcinoma,Reaction
+5775,Device defective,Reaction
+5776,Mucosal discolouration,Reaction
+5777,Therapeutic product effect variable,Reaction
+5778,Vulvovaginal mycotic infection,Reaction
+5779,Dysgraphia,Reaction
+5780,Anorectal discomfort,Reaction
+5781,Fractured sacrum,Reaction
+5782,Rectal fissure,Reaction
+5783,Breast mass,Reaction
+5784,Bronchial hyperreactivity,Reaction
+5785,Ulcer,Reaction
+5786,Musculoskeletal chest pain,Reaction
+5787,Skin bacterial infection,Reaction
+5788,Disseminated intravascular coagulation,Reaction
+5789,Dermatitis acneiform,Reaction
+5790,Device use error,Reaction
+5791,Abortion incomplete,Reaction
+5792,Staphylococcal bacteraemia,Reaction
+5793,Uterine dilation and curettage,Reaction
+5794,Leukopenia,Reaction
+5795,Gastric ulcer,Reaction
+5796,Gastric neoplasm,Reaction
+5797,Photosensitivity reaction,Reaction
+5798,Implant site erosion,Reaction
+5799,Implant site infection,Reaction
+5800,Device dislocation,Reaction
+5801,Device physical property issue,Reaction
+5802,Implant site extravasation,Reaction
+5803,Complication associated with device,Reaction
+5804,Bladder disorder,Reaction
+5805,Bladder prolapse,Reaction
+5806,Drug level below therapeutic,Reaction
+5807,Judgement impaired,Reaction
+5808,Mood swings,Reaction
+5809,Poor quality device used,Reaction
+5810,Product odour abnormal,Reaction
+5811,Product prescribing issue,Reaction
+5812,Costochondritis,Reaction
+5813,Paraesthesia oral,Reaction
+5814,Intentional overdose,Reaction
+5815,Multiple use of single-use product,Reaction
+5816,Stoma complication,Reaction
+5817,Product formulation issue,Reaction
+5818,Infusion site haematoma,Reaction
+5819,Infusion site mass,Reaction
+5820,Emotional disorder,Reaction
+5821,Electrocardiogram change,Reaction
+5822,Device failure,Reaction
+5823,Cardiac stress test abnormal,Reaction
+5824,Lip pain,Reaction
+5825,Sunburn,Reaction
+5826,Liver dialysis,Reaction
+5827,Trichorrhexis,Reaction
+5828,Sinobronchitis,Reaction
+5829,Carbohydrate antigen 125 increased,Reaction
+5830,Mean cell haemoglobin increased,Reaction
+5831,Mean cell volume increased,Reaction
+5832,Neutrophil percentage increased,Reaction
+5833,Recurrent cancer,Reaction
+5834,Intestinal operation,Reaction
+5835,Lyme disease,Reaction
+5836,Exposure to fungus,Reaction
+5837,Abscess limb,Reaction
+5838,Dyslipidaemia,Reaction
+5839,Glucose tolerance impaired,Reaction
+5840,Psychomotor skills impaired,Reaction
+5841,Brain natriuretic peptide increased,Reaction
+5842,Painful erection,Reaction
+5843,Penile pain,Reaction
+5844,Device material issue,Reaction
+5845,Ear neoplasm,Reaction
+5846,Paronychia,Reaction
+5847,Skin haemorrhage,Reaction
+5848,Vaginal infection,Reaction
+5849,Blood copper increased,Reaction
+5850,Application site exfoliation,Reaction
+5851,Application site swelling,Reaction
+5852,Spinal stroke,Reaction
+5853,Blood calcium increased,Reaction
+5854,Infusion site bruising,Reaction
+5855,Drooling,Reaction
+5856,Cancer pain,Reaction
+5857,Hangover,Reaction
+5858,Breast cancer recurrent,Reaction
+5859,Breast cancer stage IV,Reaction
+5860,Gastritis,Reaction
+5861,Metastases to spine,Reaction
+5862,Eye infection,Reaction
+5863,Pancreatitis acute,Reaction
+5864,White blood cell count increased,Reaction
+5865,No adverse event,Reaction
+5866,Rectal polyp,Reaction
+5867,Syringe issue,Reaction
+5868,Appendix disorder,Reaction
+5869,Arteriosclerosis,Reaction
+5870,Hepatomegaly,Reaction
+5871,Pulmonary granuloma,Reaction
+5872,Uterine polyp,Reaction
+5873,Autoimmune thyroid disorder,Reaction
+5874,Fear of injection,Reaction
+5875,Oedema,Reaction
+5876,Gastrointestinal stoma output abnormal,Reaction
+5877,Intracardiac thrombus,Reaction
+5878,Pulmonary thrombosis,Reaction
+5879,Alcohol abuse,Reaction
+5880,Cervical radiculopathy,Reaction
+5881,Haemorrhagic disorder,Reaction
+5882,Psychological abuse,Reaction
+5883,Sciatica,Reaction
+5884,Surgery,Reaction
+5885,Verbal abuse,Reaction
+5886,Blood calcium abnormal,Reaction
+5887,Lip disorder,Reaction
+5888,Lip swelling,Reaction
+5889,Blood glucose decreased,Reaction
+5890,Small intestinal ulcer haemorrhage,Reaction
+5891,Blood ketone body increased,Reaction
+5892,Product substitution issue,Reaction
+5893,B-cell lymphoma stage IV,Reaction
+5894,Dizziness postural,Reaction
+5895,Abdominal mass,Reaction
+5896,Atelectasis,Reaction
+5897,Dyscalculia,Reaction
+5898,Immune effector cell-associated neurotoxicity syndrome,Reaction
+5899,Cervix carcinoma,Reaction
+5900,Endometrial cancer,Reaction
+5901,Product preparation error,Reaction
+5902,Skull fracture,Reaction
+5903,Foreign body in respiratory tract,Reaction
+5904,Noninfective encephalitis,Reaction
+5905,Large intestine perforation,Reaction
+5906,Peritonitis,Reaction
+5907,Mouth swelling,Reaction
+5908,Adverse food reaction,Reaction
+5909,Allergy to vaccine,Reaction
+5910,Application site warmth,Reaction
+5911,Application site discomfort,Reaction
+5912,Oesophageal infection,Reaction
+5913,Uterine leiomyoma,Reaction
+5914,Croup infectious,Reaction
+5915,Sinusitis bacterial,Reaction
+5916,Hepatic cancer stage III,Reaction
+5917,Hepatitis C virus test positive,Reaction
+5918,Otitis media acute,Reaction
+5919,Teething,Reaction
+5920,Vascular operation,Reaction
+5921,Application site laceration,Reaction
+5922,Subcutaneous drug absorption impaired,Reaction
+5923,Injection site abscess,Reaction
+5924,Basedow's disease,Reaction
+5925,Endodontic procedure,Reaction
+5926,Fistula of small intestine,Reaction
+5927,Sinus operation,Reaction
+5928,Ammonia increased,Reaction
+5929,Escherichia infection,Reaction
+5930,Transfusion,Reaction
+5931,Peripheral nerve destruction,Reaction
+5932,Face injury,Reaction
+5933,Hepatic encephalopathy,Reaction
+5934,Lower respiratory tract congestion,Reaction
+5935,Bacterial sepsis,Reaction
+5936,Empyema,Reaction
+5937,Dementia with Lewy bodies,Reaction
+5938,5q minus syndrome,Reaction
+5939,Personality change,Reaction
+5940,Product colour issue,Reaction
+5941,Behcet's syndrome,Reaction
+5942,Infectious mononucleosis,Reaction
+5943,Blood disorder,Reaction
+5944,Cervical vertebral fracture,Reaction
+5945,Intervertebral disc compression,Reaction
+5946,Transfusion reaction,Reaction
+5947,Mass excision,Reaction
+5948,Skin injury,Reaction
+5949,Anoplasty,Reaction
+5950,Anorectal operation,Reaction
+5951,Circumcision,Reaction
+5952,Excessive granulation tissue,Reaction
+5953,Haematemesis,Reaction
+5954,Spinal cord operation,Reaction
+5955,Testicular operation,Reaction
+5956,Blood potassium increased,Reaction
+5957,Eyelid ptosis,Reaction
+5958,Haemophilus infection,Reaction
+5959,Monoclonal gammopathy,Reaction
+5960,Cyst removal,Reaction
+5961,Dyshidrotic eczema,Reaction
+5962,Rhinitis,Reaction
+5963,Intervertebral disc operation,Reaction
+5964,Spinal deformity,Reaction
+5965,Carotid artery thrombosis,Reaction
+5966,Mutism,Reaction
+5967,Non-pitting oedema,Reaction
+5968,Tinea infection,Reaction
+5969,Coeliac disease,Reaction
+5970,Evans syndrome,Reaction
+5971,Bowel movement irregularity,Reaction
+5972,Colorectal cancer stage III,Reaction
+5973,Diverticulum intestinal,Reaction
+5974,Gastrointestinal tract adenoma,Reaction
+5975,Haemorrhoids,Reaction
+5976,Occult blood,Reaction
+5977,Panic attack,Reaction
+5978,Polyp,Reaction
+5979,Staphylococcal skin infection,Reaction
+5980,Freezing phenomenon,Reaction
+5981,Tooth deposit,Reaction
+5982,Product administered to patient of inappropriate age,Reaction
+5983,Systemic-pulmonary artery shunt,Reaction
+5984,Postural orthostatic tachycardia syndrome,Reaction
+5985,Torsade de pointes,Reaction
+5986,Food allergy,Reaction
+5987,Thyroiditis,Reaction
+5988,Product taste abnormal,Reaction
+5989,Quarantine,Reaction
+5990,Hypovolaemic shock,Reaction
+5991,Skin ulcer,Reaction
+5992,Application site erythema,Reaction
+5993,Shock,Reaction
+5994,Dilatation ventricular,Reaction
+5995,Hepatic fibrosis,Reaction
+5996,Hepatic steatosis,Reaction
+5997,Hypertensive heart disease,Reaction
+5998,Pulmonary hypertension,Reaction
+5999,Right atrial dilatation,Reaction
+6000,Substance use,Reaction
+6001,Premature separation of placenta,Reaction
+6002,Intentional dose omission,Reaction
+6003,Accidental underdose,Reaction
+6004,Incorrect route of product administration,Reaction
+6005,Eye operation,Reaction
+6006,Product coating issue,Reaction
+6007,Drug resistance,Reaction
+6008,Non-small cell lung cancer,Reaction
+6009,Type 2 diabetes mellitus,Reaction
+6010,Infusion site cellulitis,Reaction
+6011,Vein collapse,Reaction
+6012,Catheterisation cardiac,Reaction
+6013,Inguinal hernia,Reaction
+6014,Medical device change,Reaction
+6015,Procedural site reaction,Reaction
+6016,Nail discolouration,Reaction
+6017,Cystic fibrosis lung,Reaction
+6018,Anal fistula infection,Reaction
+6019,Furuncle,Reaction
+6020,B-cell lymphoma,Reaction
+6021,Gastric cancer,Reaction
+6022,Blood creatinine decreased,Reaction
+6023,Blood potassium abnormal,Reaction
+6024,Bladder neoplasm,Reaction
+6025,Rash pustular,Reaction
+6026,Skin irritation,Reaction
+6027,Nervous system disorder,Reaction
+6028,Onychoclasis,Reaction
+6029,Colostomy,Reaction
+6030,Intestinal resection,Reaction
+6031,Eructation,Reaction
+6032,Hepatitis acute,Reaction
+6033,Pancreatic carcinoma metastatic,Reaction
+6034,Eye injury,Reaction
+6035,Hunger,Reaction
+6036,Renal artery stent placement,Reaction
+6037,Stoma site discharge,Reaction
+6038,Urine analysis abnormal,Reaction
+6039,Urine ketone body present,Reaction
+6040,Product complaint,Reaction
+6041,Creatinine urine increased,Reaction
+6042,SARS-CoV-2 antibody test positive,Reaction
+6043,Specific gravity urine abnormal,Reaction
+6044,Product supply issue,Reaction
+6045,Troponin increased,Reaction
+6046,Injection site hypersensitivity,Reaction
+6047,Blood bicarbonate increased,Reaction
+6048,Onychomycosis,Reaction
+6049,Vitamin B12 deficiency,Reaction
+6050,Creatinine urine decreased,Reaction
+6051,Bone marrow transplant,Reaction
+6052,Diplegia,Reaction
+6053,Lip oedema,Reaction
+6054,Periorbital pain,Reaction
+6055,Hepatitis B reactivation,Reaction
+6056,Blood blister,Reaction
+6057,Chest injury,Reaction
+6058,Dermatitis diaper,Reaction
+6059,Skin abrasion,Reaction
+6060,Hordeolum,Reaction
+6061,Aneurysm,Reaction
+6062,Congenital anomaly,Reaction
+6063,Learning disability,Reaction
+6064,Spina bifida,Reaction
+6065,Drug dispensed to wrong patient,Reaction
+6066,Eyelids pruritus,Reaction
+6067,Swelling of eyelid,Reaction
+6068,Crime,Reaction
+6069,Functional gastrointestinal disorder,Reaction
+6070,Involuntary commitment,Reaction
+6071,Psychiatric symptom,Reaction
+6072,Catheter placement,Reaction
+6073,Hepatic cyst,Reaction
+6074,Pancreatic cyst,Reaction
+6075,Retinal tear,Reaction
+6076,Steatorrhoea,Reaction
+6077,Adrenocortical insufficiency acute,Reaction
+6078,Infusion site vesicles,Reaction
+6079,Abscess,Reaction
+6080,Lung operation,Reaction
+6081,Self esteem decreased,Reaction
+6082,Tricuspid valve repair,Reaction
+6083,Immune reconstitution inflammatory syndrome,Reaction
+6084,Progressive multifocal leukoencephalopathy,Reaction
+6085,Cardiac valve disease,Reaction
+6086,Fine motor skill dysfunction,Reaction
+6087,Pulmonary arterial hypertension,Reaction
+6088,Gallbladder rupture,Reaction
+6089,Radiation necrosis,Reaction
+6090,Frustration tolerance decreased,Reaction
+6091,Plantar fasciitis,Reaction
+6092,Systemic lupus erythematosus,Reaction
+6093,Knee operation,Reaction
+6094,Medical device site injury,Reaction
+6095,Therapeutic product ineffective,Reaction
+6096,Colectomy,Reaction
+6097,Colostomy closure,Reaction
+6098,Hernia,Reaction
+6099,Post procedural drainage,Reaction
+6100,Vertigo positional,Reaction
+6101,Lung neoplasm malignant,Reaction
+6102,Phlebectomy,Reaction
+6103,Beta haemolytic streptococcal infection,Reaction
+6104,Central nervous system lymphoma,Reaction
+6105,Diabetes mellitus inadequate control,Reaction
+6106,Diffuse large B-cell lymphoma,Reaction
+6107,Necrotising fasciitis,Reaction
+6108,Middle insomnia,Reaction
+6109,Peripheral venous disease,Reaction
+6110,Vasculitis,Reaction
+6111,Venous ulcer pain,Reaction
+6112,Embolic stroke,Reaction
+6113,"Hallucination, visual",Reaction
+6114,Myopia,Reaction
+6115,Escherichia urinary tract infection,Reaction
+6116,Mesenteric vein thrombosis,Reaction
+6117,Mucosal inflammation,Reaction
+6118,Blast cells present,Reaction
+6119,CSF white blood cell count increased,Reaction
+6120,Central nervous system leukaemia,Reaction
+6121,Facial discomfort,Reaction
+6122,Fungal skin infection,Reaction
+6123,Muscle contracture,Reaction
+6124,Endoscopy,Reaction
+6125,Urinary tract disorder,Reaction
+6126,Synovial cyst,Reaction
+6127,Hysterectomy,Reaction
+6128,Abdominal injury,Reaction
+6129,Blood bicarbonate decreased,Reaction
+6130,Spleen disorder,Reaction
+6131,Seizure like phenomena,Reaction
+6132,Skin hypertrophy,Reaction
+6133,Colorectal cancer stage II,Reaction
+6134,Gastrointestinal stoma complication,Reaction
+6135,Muscle tightness,Reaction
+6136,Angiopathy,Reaction
+6137,Cutaneous lupus erythematosus,Reaction
+6138,Scleroderma,Reaction
+6139,Skin discolouration,Reaction
+6140,Catheter removal,Reaction
+6141,Pharyngeal operation,Reaction
+6142,Staphylococcal sepsis,Reaction
+6143,Maternal exposure before pregnancy,Reaction
+6144,Placental transfusion syndrome,Reaction
+6145,Pregnancy on oral contraceptive,Reaction
+6146,Premature delivery,Reaction
+6147,Haemorrhage urinary tract,Reaction
+6148,Microcytic anaemia,Reaction
+6149,Root canal infection,Reaction
+6150,Ileostomy closure,Reaction
+6151,Klebsiella bacteraemia,Reaction
+6152,Mastitis,Reaction
+6153,Thinking abnormal,Reaction
+6154,Hypercapnia,Reaction
+6155,Product container issue,Reaction
+6156,Product use complaint,Reaction
+6157,Stress cardiomyopathy,Reaction
+6158,Device related sepsis,Reaction
+6159,Medical procedure,Reaction
+6160,Vocal cord disorder,Reaction
+6161,Gamma-glutamyltransferase increased,Reaction
+6162,Hydrocephalus,Reaction
+6163,Asthenopia,Reaction
+6164,Prostatitis,Reaction
+6165,Tibia fracture,Reaction
+6166,Gluten sensitivity,Reaction
+6167,Reaction to excipient,Reaction
+6168,Skin swelling,Reaction
+6169,Wrong product administered,Reaction
+6170,Spondylitis,Reaction
+6171,Aberrant aortic arch,Reaction
+6172,Patent ductus arteriosus,Reaction
+6173,Benign neoplasm,Reaction
+6174,Catheter site swelling,Reaction
+6175,Hepatic pain,Reaction
+6176,Localised oedema,Reaction
+6177,Oesophageal operation,Reaction
+6178,Cardiac dysfunction,Reaction
+6179,Internal haemorrhage,Reaction
+6180,Dysmetria,Reaction
+6181,Generalised tonic-clonic seizure,Reaction
+6182,Meningitis viral,Reaction
+6183,Posterior reversible encephalopathy syndrome,Reaction
+6184,Large intestinal haemorrhage,Reaction
+6185,Rectal abscess,Reaction
+6186,Abscess oral,Reaction
+6187,Skin fissures,Reaction
+6188,Maternal exposure timing unspecified,Reaction
+6189,Folliculitis,Reaction
+6190,Ingrowing nail,Reaction
+6191,Skin papilloma,Reaction
+6192,Intra-abdominal haemorrhage,Reaction
+6193,Vascular rupture,Reaction
+6194,Immune-mediated myositis,Reaction
+6195,Myositis,Reaction
+6196,Aortic arteriosclerosis,Reaction
+6197,Arterial haemorrhage,Reaction
+6198,Bladder hypertrophy,Reaction
+6199,Chronic sinusitis,Reaction
+6200,Defaecation urgency,Reaction
+6201,Haemorrhagic cyst,Reaction
+6202,Nasal septum deviation,Reaction
+6203,Osteoma,Reaction
+6204,Post procedural haemorrhage,Reaction
+6205,Uterine hypoplasia,Reaction
+6206,Thermal burn,Reaction
+6207,Ear congestion,Reaction
+6208,Gastrointestinal bacterial overgrowth,Reaction
+6209,Otorrhoea,Reaction
+6210,Administration site pain,Reaction
+6211,Cardioversion,Reaction
+6212,Cyst,Reaction
+6213,Xerosis,Reaction
+6214,Jugular vein distension,Reaction
+6215,Orthopnoea,Reaction
+6216,Tumour haemorrhage,Reaction
+6217,"Sleep disorder due to general medical condition, insomnia type",Reaction
+6218,Joint warmth,Reaction
+6219,Cronobacter bacteraemia,Reaction
+6220,Biliary fistula,Reaction
+6221,Product delivery mechanism issue,Reaction
+6222,Squamous cell carcinoma,Reaction
+6223,Dermatomyositis,Reaction
+6224,Polymyositis,Reaction
+6225,Renal haemorrhage,Reaction
+6226,Menstrual disorder,Reaction
+6227,Respiration abnormal,Reaction
+6228,Wound secretion,Reaction
+6229,Spinal laminectomy,Reaction
+6230,Faecal calprotectin increased,Reaction
+6231,Gastrointestinal tract irritation,Reaction
+6232,Intestinal haemorrhage,Reaction
+6233,Large intestinal obstruction,Reaction
+6234,Respiratory arrest,Reaction
+6235,Appetite disorder,Reaction
+6236,Blood pressure diastolic increased,Reaction
+6237,Treatment noncompliance,Reaction
+6238,Arthropod sting,Reaction
+6239,Gastrointestinal tube insertion,Reaction
+6240,Hand-foot-and-mouth disease,Reaction
+6241,Upper respiratory fungal infection,Reaction
+6242,Viral rash,Reaction
+6243,Biopsy bone marrow abnormal,Reaction
+6244,Central nervous system infection,Reaction
+6245,Medication overuse headache,Reaction
+6246,Sinus pain,Reaction
+6247,Troponin I increased,Reaction
+6248,Incontinence,Reaction
+6249,Autoimmune neuropathy,Reaction
+6250,Myocarditis,Reaction
+6251,Ketoacidosis,Reaction
+6252,Thirst,Reaction
+6253,Periorbital swelling,Reaction
+6254,Drug use disorder,Reaction
+6255,Erectile dysfunction,Reaction
+6256,Loose tooth,Reaction
+6257,Somatic symptom disorder,Reaction
+6258,Tobacco abuse,Reaction
+6259,Streptococcal bacteraemia,Reaction
+6260,Blood iron increased,Reaction
+6261,Blood pressure systolic decreased,Reaction
+6262,Infectious thyroiditis,Reaction
+6263,Tooth extraction,Reaction
+6264,Heart rate decreased,Reaction
+6265,Haemoglobin increased,Reaction
+6266,Mucosal disorder,Reaction
+6267,Short-bowel syndrome,Reaction
+6268,Residual urine volume increased,Reaction
+6269,Hepatic cancer,Reaction
+6270,Neuroendocrine carcinoma metastatic,Reaction
+6271,Pulmonary infarction,Reaction
+6272,Blood alcohol increased,Reaction
+6273,Ecchymosis,Reaction
+6274,Subdural haematoma,Reaction
+6275,Rectal obstruction,Reaction
+6276,Cardiac failure acute,Reaction
+6277,Catheter site haemorrhage,Reaction
+6278,Intentional underdose,Reaction
+6279,Urinary hesitation,Reaction
+6280,Magnetic resonance imaging abnormal,Reaction
+6281,Genital candidiasis,Reaction
+6282,Vulvovaginal candidiasis,Reaction
+6283,Arteriovenous fistula operation,Reaction
+6284,Gastrointestinal pain,Reaction
+6285,Gastrointestinal bacterial infection,Reaction
+6286,Tongue fungal infection,Reaction
+6287,Trigger finger,Reaction
+6288,Demyelinating polyneuropathy,Reaction
+6289,Fungal sepsis,Reaction
+6290,Hypoaesthesia eye,Reaction
+6291,Oesophageal pain,Reaction
+6292,Micturition frequency decreased,Reaction
+6293,Partner stress,Reaction
+6294,Red blood cell count increased,Reaction
+6295,Forearm fracture,Reaction
+6296,Uterine cancer,Reaction
+6297,Sinus bradycardia,Reaction
+6298,Drug delivery system malfunction,Reaction
+6299,Intentional self-injury,Reaction
+6300,Fournier's gangrene,Reaction
+6301,Skin striae,Reaction
+6302,Product monitoring error,Reaction
+6303,Gastric pH decreased,Reaction
+6304,Haemorrhagic diathesis,Reaction
+6305,Platelet count increased,Reaction
+6306,Wound dehiscence,Reaction
+6307,Injection site vesicles,Reaction
+6308,Blood pressure systolic increased,Reaction
+6309,Hypercoagulation,Reaction
+6310,Sickle cell anaemia with crisis,Reaction
+6311,Complication of device insertion,Reaction
+6312,Blood pressure fluctuation,Reaction
+6313,Faeces hard,Reaction
+6314,Implantable defibrillator insertion,Reaction
+6315,Caesarean section,Reaction
+6316,Electroencephalogram abnormal,Reaction
+6317,Bacterial vaginosis,Reaction
+6318,Herpes virus infection,Reaction
+6319,Parvovirus B19 infection,Reaction
+6320,Device ineffective,Reaction
+6321,Ankle operation,Reaction
+6322,Chlamydial infection,Reaction
+6323,Infusion site injury,Reaction
+6324,Hypothermia,Reaction
+6325,Hepatorenal failure,Reaction
+6326,Bladder transitional cell carcinoma,Reaction
+6327,Hypoperfusion,Reaction
+6328,Blood electrolytes abnormal,Reaction
+6329,Vulval cancer,Reaction
+6330,Follicular lymphoma,Reaction
+6331,Acute graft versus host disease in intestine,Reaction
+6332,Hypomagnesaemia,Reaction
+6333,Oedema due to renal disease,Reaction
+6334,Acoustic stimulation tests abnormal,Reaction
+6335,Hypertensive crisis,Reaction
+6336,Gastrointestinal sounds abnormal,Reaction
+6337,Eyelid rash,Reaction
+6338,Temporomandibular joint syndrome,Reaction
+6339,Obsessive-compulsive disorder,Reaction
+6340,Product design issue,Reaction
+6341,Cholangitis acute,Reaction
+6342,Bronchoscopy abnormal,Reaction
+6343,Endocarditis,Reaction
+6344,Laryngomalacia,Reaction
+6345,Mitral valve stenosis,Reaction
+6346,Respiratory tract oedema,Reaction
+6347,Product temperature excursion issue,Reaction
+6348,Bursitis,Reaction
+6349,Blood phosphorus abnormal,Reaction
+6350,Reflux laryngitis,Reaction
+6351,Benign ethnic neutropenia,Reaction
+6352,Eye contusion,Reaction
+6353,Eye haemorrhage,Reaction
+6354,Prothrombin time prolonged,Reaction
+6355,Vitamin B1 increased,Reaction
+6356,Vitamin B12 decreased,Reaction
+6357,Mycobacterium tuberculosis complex test positive,Reaction
+6358,Rebound psoriasis,Reaction
+6359,Immune thrombocytopenia,Reaction
+6360,Petechiae,Reaction
+6361,Enterocutaneous fistula,Reaction
+6362,Haemorrhage subcutaneous,Reaction
+6363,Energy increased,Reaction
+6364,Oral discomfort,Reaction
+6365,Guillain-Barre syndrome,Reaction
+6366,Diarrhoea infectious,Reaction
+6367,Device related bacteraemia,Reaction
+6368,Dyschezia,Reaction
+6369,Product packaging quantity issue,Reaction
+6370,Device placement issue,Reaction
+6371,Device expulsion,Reaction
+6372,Chlamydial pelvic inflammatory disease,Reaction
+6373,Pelvic pain,Reaction
+6374,Vaginal discharge,Reaction
+6375,Contraindicated device used,Reaction
+6376,Medical device monitoring error,Reaction
+6377,Post procedural discomfort,Reaction
+6378,Catheter management,Reaction
+6379,Serum ferritin decreased,Reaction
+6380,Status epilepticus,Reaction
+6381,Peripheral motor neuropathy,Reaction
+6382,Aortic occlusion,Reaction
+6383,Fibrin D dimer increased,Reaction
+6384,Superinfection bacterial,Reaction
+6385,Hidradenitis,Reaction
+6386,Bone operation,Reaction
+6387,Product container seal issue,Reaction
+6388,Blood loss anaemia,Reaction
+6389,Gastric infection,Reaction
+6390,Gastrointestinal necrosis,Reaction
+6391,Oesophageal cancer metastatic,Reaction
+6392,Opportunistic infection,Reaction
+6393,Pyloric stenosis,Reaction
+6394,Thrombophlebitis superficial,Reaction
+6395,"Hallucination, tactile",Reaction
+6396,Gastrointestinal obstruction,Reaction
+6397,Breath sounds abnormal,Reaction
+6398,Crepitations,Reaction
+6399,Cerumen impaction,Reaction
+6400,Duodenal ulcer,Reaction
+6401,Hepatobiliary cancer,Reaction
+6402,Drug level decreased,Reaction
+6403,Frequent bowel movements,Reaction
+6404,Failure to thrive,Reaction
+6405,Secretion discharge,Reaction
+6406,Drug specific antibody,Reaction
+6407,Thrombophlebitis,Reaction
+6408,Kyphosis,Reaction
+6409,Venous occlusion,Reaction
+6410,Heart rate abnormal,Reaction
+6411,Ectopic pregnancy with contraceptive device,Reaction
+6412,Hepatic infection,Reaction
+6413,Hepatic lesion,Reaction
+6414,Tumour marker decreased,Reaction
+6415,Dizziness exertional,Reaction
+6416,Immune-mediated myocarditis,Reaction
+6417,Intracranial haematoma,Reaction
+6418,Muscle disorder,Reaction
+6419,Antinuclear antibody increased,Reaction
+6420,Lupus-like syndrome,Reaction
+6421,Catheter site erythema,Reaction
+6422,Right ventricular failure,Reaction
+6423,Thyroid function test abnormal,Reaction
+6424,Blood test,Reaction
+6425,Hepatic enzyme,Reaction
+6426,Hypovolaemia,Reaction
+6427,Pulmonary alveolar haemorrhage,Reaction
+6428,Altered visual depth perception,Reaction
+6429,Accident at work,Reaction
+6430,Fibrocystic breast disease,Reaction
+6431,Sebaceous adenoma,Reaction
+6432,Cancer surgery,Reaction
+6433,Ear neoplasm malignant,Reaction
+6434,Prostate cancer metastatic,Reaction
+6435,Oesophageal dilation procedure,Reaction
+6436,Adenocarcinoma of colon,Reaction
+6437,Body temperature fluctuation,Reaction
+6438,Bronchial obstruction,Reaction
+6439,Organic erectile dysfunction,Reaction
+6440,Cerebral infarction,Reaction
+6441,Thrombotic stroke,Reaction
+6442,Increased appetite,Reaction
+6443,Abnormal uterine bleeding,Reaction
+6444,Pneumocystis jirovecii pneumonia,Reaction
+6445,Procedural pain,Reaction
+6446,Tongue injury,Reaction
+6447,Gene mutation,Reaction
+6448,Lung cyst,Reaction
+6449,Primary mediastinal large B-cell lymphoma,Reaction
+6450,Lung abscess,Reaction
+6451,Tooth fracture,Reaction
+6452,Lipoatrophy,Reaction
+6453,Lumbar radiculopathy,Reaction
+6454,Temperature intolerance,Reaction
+6455,Large intestine polyp,Reaction
+6456,Plasma cell myeloma recurrent,Reaction
+6457,Ischaemia,Reaction
+6458,Body temperature decreased,Reaction
+6459,Decubitus ulcer,Reaction
+6460,Food refusal,Reaction
+6461,Cystitis noninfective,Reaction
+6462,Ear haemorrhage,Reaction
+6463,Eosinophilia,Reaction
+6464,Urinary bladder haemorrhage,Reaction
+6465,Haematocrit abnormal,Reaction
+6466,Haemoglobin abnormal,Reaction
+6467,Dyspareunia,Reaction
+6468,Uterine perforation,Reaction
+6469,Dermatitis allergic,Reaction
+6470,Congenital torticollis,Reaction
+6471,Haemangioma of skin,Reaction
+6472,Plagiocephaly,Reaction
+6473,Epicondylitis,Reaction
+6474,Basophil count decreased,Reaction
+6475,Eosinophil count decreased,Reaction
+6476,Lymphocyte percentage decreased,Reaction
+6477,Monocyte percentage increased,Reaction
+6478,Neutrophil percentage decreased,Reaction
+6479,Urinary tract obstruction,Reaction
+6480,Splinter,Reaction
+6481,General physical condition abnormal,Reaction
+6482,Cerebral cyst,Reaction
+6483,JC virus infection,Reaction
+6484,Venous stenosis,Reaction
+6485,Thyroid cancer recurrent,Reaction
+6486,Pericarditis,Reaction
+6487,Bacteriuria,Reaction
+6488,Partial seizures,Reaction
+6489,Postictal paralysis,Reaction
+6490,Kidney transplant rejection,Reaction
+6491,Foot deformity,Reaction
+6492,Spider vein,Reaction
+6493,Catheter site extravasation,Reaction
+6494,Capsular contracture associated with implant,Reaction
+6495,Procedural intestinal perforation,Reaction
+6496,Pulmonary arterial pressure increased,Reaction
+6497,Systemic lupus erythematosus rash,Reaction
+6498,Immune-mediated enterocolitis,Reaction
+6499,Pus in stool,Reaction
+6500,Atrial thrombosis,Reaction
+6501,Ejection fraction abnormal,Reaction
+6502,Band sensation,Reaction
+6503,Dental caries,Reaction
+6504,Generalised oedema,Reaction
+6505,Calyceal diverticulum,Reaction
+6506,Hiccups,Reaction
+6507,Injection related reaction,Reaction
+6508,Pregnancy with implant contraceptive,Reaction
+6509,Unintended pregnancy,Reaction
+6510,Cor pulmonale acute,Reaction
+6511,Iron deficiency,Reaction
+6512,Polymenorrhoea,Reaction
+6513,Cholangiocarcinoma,Reaction
+6514,Hepatocellular carcinoma,Reaction
+6515,Pneumomediastinum,Reaction
+6516,Vesicoureteric reflux,Reaction
+6517,Myoclonus,Reaction
+6518,Periorbital oedema,Reaction
+6519,VIIth nerve injury,Reaction
+6520,Oesophageal obstruction,Reaction
+6521,Burns third degree,Reaction
+6522,Inguinal mass,Reaction
+6523,Tumour pain,Reaction
+6524,Cartilage operation,Reaction
+6525,Capsule endoscopy,Reaction
+6526,Hypertonic bladder,Reaction
+6527,Compartment syndrome,Reaction
+6528,Weight bearing difficulty,Reaction
+6529,Hypertensive cardiomyopathy,Reaction
+6530,Ascites,Reaction
+6531,Cauda equina syndrome,Reaction
+6532,Loss of control of legs,Reaction
+6533,Sitting disability,Reaction
+6534,Subretinal fluid,Reaction
+6535,Device adhesion issue,Reaction
+6536,Unintentional medical device removal,Reaction
+6537,Loss of therapeutic response,Reaction
+6538,Hostility,Reaction
+6539,Diabetic complication,Reaction
+6540,Device kink,Reaction
+6541,Neuromyelitis optica spectrum disorder,Reaction
+6542,Shunt occlusion,Reaction
+6543,Stevens-Johnson syndrome,Reaction
+6544,Volvulus repair,Reaction
+6545,Pseudopolyposis,Reaction
+6546,Anorectal disorder,Reaction
+6547,Pelvic haematoma,Reaction
+6548,Abdominal adhesions,Reaction
+6549,Pelvic infection,Reaction
+6550,Anaemia postoperative,Reaction
+6551,Neutrophilic dermatosis,Reaction
+6552,Intussusception,Reaction
+6553,Metastatic malignant melanoma,Reaction
+6554,Foreign body,Reaction
+6555,Corneal epithelium defect,Reaction
+6556,Optic neuritis,Reaction
+6557,Drug screen positive,Reaction
+6558,Vomiting projectile,Reaction
+6559,Altered state of consciousness,Reaction
+6560,Ankylosing spondylitis,Reaction
+6561,Adrenal disorder,Reaction
+6562,Atrophy,Reaction
+6563,Electrocardiogram T wave peaked,Reaction
+6564,Electrocardiogram delta waves abnormal,Reaction
+6565,Eye movement disorder,Reaction
+6566,Head titubation,Reaction
+6567,Hippocampal sclerosis,Reaction
+6568,Temporal lobe epilepsy,Reaction
+6569,Oesophageal adenocarcinoma,Reaction
+6570,Drug delivery system issue,Reaction
+6571,Proctitis,Reaction
+6572,Gallbladder operation,Reaction
+6573,Aplastic anaemia,Reaction
+6574,Mantle cell lymphoma,Reaction
+6575,Meningitis aseptic,Reaction
+6576,Subclavian vein thrombosis,Reaction
+6577,Diabetic gangrene,Reaction
+6578,Chorioretinitis,Reaction
+6579,Detachment of retinal pigment epithelium,Reaction
+6580,Macular oedema,Reaction
+6581,Retinal cyst,Reaction
+6582,Uveitis,Reaction
+6583,Vitreous floaters,Reaction
+6584,Vitreous opacities,Reaction
+6585,Retinal injury,Reaction
+6586,Nodule,Reaction
+6587,Sinusitis fungal,Reaction
+6588,Product tampering,Reaction
+6589,Cardiogenic shock,Reaction
+6590,Kaposi's sarcoma,Reaction
+6591,Infusion site thrombosis,Reaction
+6592,Medical induction of coma,Reaction
+6593,General anaesthesia,Reaction
+6594,Product preparation issue,Reaction
+6595,Venous thrombosis,Reaction
+6596,Genital haemorrhage,Reaction
+6597,Incorrect disposal of product,Reaction
+6598,Gastrectomy,Reaction
+6599,Blood cholesterol decreased,Reaction
+6600,Blood creatinine abnormal,Reaction
+6601,Ovarian cancer metastatic,Reaction
+6602,Extradural haematoma,Reaction
+6603,Injection site hypoaesthesia,Reaction
+6604,Perivascular dermatitis,Reaction
+6605,Vaginal haemorrhage,Reaction
+6606,Post lumbar puncture syndrome,Reaction
+6607,Acetabulum fracture,Reaction
+6608,Hypoalbuminaemia,Reaction
+6609,Shoulder arthroplasty,Reaction
+6610,Serous retinopathy,Reaction
+6611,Intercepted product preparation error,Reaction
+6612,Adenocarcinoma,Reaction
+6613,Application site haemorrhage,Reaction
+6614,Hemianopia,Reaction
+6615,Aortic valve disease,Reaction
+6616,Purulent discharge,Reaction
+6617,Wound haemorrhage,Reaction
+6618,Left ventricular failure,Reaction
+6619,Nocturnal dyspnoea,Reaction
+6620,Haemoperitoneum,Reaction
+6621,Splenic haematoma,Reaction
+6622,Splenic rupture,Reaction
+6623,Intercepted medication error,Reaction
+6624,Implant site erythema,Reaction
+6625,Chemical burn of respiratory tract,Reaction
+6626,Oropharyngeal blistering,Reaction
+6627,Tongue blistering,Reaction
+6628,Myopathy,Reaction
+6629,Cholecystitis infective,Reaction
+6630,Implant site bruising,Reaction
+6631,Implant site fibrosis,Reaction
+6632,Stoma site cellulitis,Reaction
+6633,Infusion site irritation,Reaction
+6634,Hyperphagia,Reaction
+6635,Hypopnoea,Reaction
+6636,Iron deficiency anaemia,Reaction
+6637,Joint effusion,Reaction
+6638,Lymphocyte count increased,Reaction
+6639,Oedema genital,Reaction
+6640,Penile discharge,Reaction
+6641,Polydipsia,Reaction
+6642,Urine output increased,Reaction
+6643,Blindness transient,Reaction
+6644,Vitreous detachment,Reaction
+6645,Implant site pain,Reaction
+6646,Medical device site discomfort,Reaction
+6647,Genital infection fungal,Reaction
+6648,Hypersensitivity pneumonitis,Reaction
+6649,Medical device discomfort,Reaction
+6650,Brain neoplasm,Reaction
+6651,Humerus fracture,Reaction
+6652,Haemorrhage in pregnancy,Reaction
+6653,Retained placenta or membranes,Reaction
+6654,Injection site cellulitis,Reaction
+6655,Injection site induration,Reaction
+6656,Abdominal cavity drainage,Reaction
+6657,Gastric ulcer haemorrhage,Reaction
+6658,Injection site atrophy,Reaction
+6659,Vitamin B6 increased,Reaction
+6660,Incorrect product formulation administered,Reaction
+6661,Product label confusion,Reaction
+6662,Melaena,Reaction
+6663,Product contamination physical,Reaction
+6664,Diet noncompliance,Reaction
+6665,Hepatic atrophy,Reaction
+6666,Intentional device misuse,Reaction
+6667,Product administered at inappropriate site,Reaction
+6668,Prostatic specific antigen increased,Reaction
+6669,Hyperammonaemia,Reaction
+6670,Vaginal ulceration,Reaction
+6671,Actinic keratosis,Reaction
+6672,Precancerous condition,Reaction
+6673,Skin depigmentation,Reaction
+6674,Injection site injury,Reaction
+6675,Anal skin tags,Reaction
+6676,Diverticulum,Reaction
+6677,Jaw fracture,Reaction
+6678,Lichen planus,Reaction
+6679,Cataract nuclear,Reaction
+6680,Dry age-related macular degeneration,Reaction
+6681,Retinal detachment,Reaction
+6682,Feeling of despair,Reaction
+6683,Adnexal torsion,Reaction
+6684,Device deployment issue,Reaction
+6685,Neuroendocrine tumour,Reaction
+6686,Bone contusion,Reaction
+6687,Pelvic discomfort,Reaction
+6688,Therapy change,Reaction
+6689,Light chain analysis increased,Reaction
+6690,Inhibitory drug interaction,Reaction
+6691,Gingival disorder,Reaction
+6692,Livedo reticularis,Reaction
+6693,Oral papule,Reaction
+6694,Small cell lung cancer,Reaction
+6695,Drug-induced liver injury,Reaction
+6696,Ocular retrobulbar haemorrhage,Reaction
+6697,Cerebellar haemorrhage,Reaction
+6698,Craniocerebral injury,Reaction
+6699,Breast injury,Reaction
+6700,Vascular device occlusion,Reaction
+6701,Product solubility abnormal,Reaction
+6702,Aortic aneurysm,Reaction
+6703,Gastrointestinal inflammation,Reaction
+6704,Interstitial lung disease,Reaction
+6705,Ovarian cancer stage IV,Reaction
+6706,Pleuritic pain,Reaction
+6707,Pulmonary toxicity,Reaction
+6708,Tachyphrenia,Reaction
+6709,Mastectomy,Reaction
+6710,Bladder dilatation,Reaction
+6711,Myelosuppression,Reaction
+6712,Pancreatitis necrotising,Reaction
+6713,Amino acid level abnormal,Reaction
+6714,Colon neoplasm,Reaction
+6715,Acute chest syndrome,Reaction
+6716,Fat embolism syndrome,Reaction
+6717,Parvovirus infection,Reaction
+6718,Screaming,Reaction
+6719,Postoperative ileus,Reaction
+6720,Micrographic skin surgery,Reaction
+6721,Thrombocytosis,Reaction
+6722,Myelitis,Reaction
+6723,Osteosarcoma recurrent,Reaction
+6724,Oropharyngeal spasm,Reaction
+6725,Fungaemia,Reaction
+6726,Stoma site reaction,Reaction
+6727,Endotracheal intubation complication,Reaction
+6728,Restrictive pulmonary disease,Reaction
+6729,Biopsy liver,Reaction
+6730,Alcoholic pancreatitis,Reaction
+6731,Oral contusion,Reaction
+6732,Perirectal abscess,Reaction
+6733,Drug titration error,Reaction
+6734,Upper motor neurone lesion,Reaction
+6735,Abdominal wall haematoma,Reaction
+6736,Hypoventilation,Reaction
+6737,Iliac artery embolism,Reaction
+6738,Malignant atrophic papulosis,Reaction
+6739,Foreign body in gastrointestinal tract,Reaction
+6740,Removal of foreign body from oesophagus,Reaction
+6741,Product lot number issue,Reaction
+6742,Meningitis bacterial,Reaction
+6743,Thyroid hormones decreased,Reaction
+6744,Lymphadenitis,Reaction
+6745,Neutrophilia,Reaction
+6746,Invasive ductal breast carcinoma,Reaction
+6747,Nail bed disorder,Reaction
+6748,Atrial rupture,Reaction
+6749,Implant site swelling,Reaction
+6750,Obstructive airways disorder,Reaction
+6751,Antibody test abnormal,Reaction
+6752,Hepatitis B virus test positive,Reaction
+6753,Potentiating drug interaction,Reaction
+6754,Product packaging difficult to open,Reaction
+6755,Lip infection,Reaction
+6756,Oral bacterial infection,Reaction
+6757,Procedural haemorrhage,Reaction
+6758,Abdominal operation,Reaction
+6759,Cervical cyst,Reaction
+6760,Breakthrough haemolysis,Reaction
+6761,Tympanic membrane perforation,Reaction
+6762,Second primary malignancy,Reaction
+6763,Incoherent,Reaction
+6764,Onycholysis,Reaction
+6765,Tendon rupture,Reaction
+6766,Product size issue,Reaction
+6767,Albumin globulin ratio increased,Reaction
+6768,Type 1 diabetes mellitus,Reaction
+6769,Aura,Reaction
+6770,Meningitis listeria,Reaction
+6771,Meningitis chemical,Reaction
+6772,Protein total increased,Reaction
+6773,Exposure via inhalation,Reaction
+6774,Product dispensing issue,Reaction
+6775,Abortion induced,Reaction
+6776,Post transplant lymphoproliferative disorder,Reaction
+6777,Effusion,Reaction
+6778,Gangrene,Reaction
+6779,Heat exhaustion,Reaction
+6780,Postmenopausal haemorrhage,Reaction
+6781,Gastrointestinal oedema,Reaction
+6782,Axillary mass,Reaction
+6783,Haematocrit increased,Reaction
+6784,Therapeutic reaction time decreased,Reaction
+6785,Oxygen therapy,Reaction
+6786,Carbohydrate antigen 27.29 increased,Reaction
+6787,Bell's palsy,Reaction
+6788,Sensitive skin,Reaction
+6789,Oral administration complication,Reaction
+6790,Benign neoplasm of bladder,Reaction
+6791,Platelet count abnormal,Reaction
+6792,Decreased activity,Reaction
+6793,Lung lobectomy,Reaction
+6794,Injection site indentation,Reaction
+6795,Gestational diabetes,Reaction
+6796,Pulmonary mucormycosis,Reaction
+6797,Uterine mass,Reaction
+6798,Blood chloride increased,Reaction
+6799,Eosinophil percentage decreased,Reaction
+6800,Arteriosclerosis coronary artery,Reaction
+6801,Heart valve stenosis,Reaction
+6802,Hypercholesterolaemia,Reaction
+6803,Hyperparathyroidism secondary,Reaction
+6804,Lip neoplasm,Reaction
+6805,Morton's neuralgia,Reaction
+6806,Snoring,Reaction
+6807,Discharge,Reaction
+6808,Otitis externa,Reaction
+6809,Fluid intake reduced,Reaction
+6810,Procedural hypotension,Reaction
+6811,Surgical stapling,Reaction
+6812,Hernia hiatus repair,Reaction
+6813,Cerebellar stroke,Reaction
+6814,Respiratory acidosis,Reaction
+6815,Sensory disturbance,Reaction
+6816,Fishbane reaction,Reaction
+6817,Bone fragmentation,Reaction
+6818,Thoracic vertebral fracture,Reaction
+6819,Osteonecrosis of jaw,Reaction
+6820,Retinal vein occlusion,Reaction
+6821,African trypanosomiasis,Reaction
+6822,Osteolysis,Reaction
+6823,Negative thoughts,Reaction
+6824,Peripheral artery occlusion,Reaction
+6825,Implant site pustules,Reaction
+6826,Dissociation,Reaction
+6827,Hepatic cancer stage IV,Reaction
+6828,Splenic lesion,Reaction
+6829,Dermatitis,Reaction
+6830,Bladder discomfort,Reaction
+6831,Brain stem haemorrhage,Reaction
+6832,Posture abnormal,Reaction
+6833,Cystic fibrosis,Reaction
+6834,Mastoidectomy,Reaction
+6835,Mechanical ventilation,Reaction
+6836,Cataract operation,Reaction
+6837,Skin wrinkling,Reaction
+6838,Chronic inflammatory demyelinating polyradiculoneuropathy,Reaction
+6839,Dyspnoea at rest,Reaction
+6840,Choking sensation,Reaction
+6841,Myofascial pain syndrome,Reaction
+6842,Gingival abscess,Reaction
+6843,Atrial hypertrophy,Reaction
+6844,Triple negative breast cancer,Reaction
+6845,Uhthoff's phenomenon,Reaction
+6846,Nasal cavity cancer,Reaction
+6847,Throat cancer,Reaction
+6848,Hormone level abnormal,Reaction
+6849,Intermenstrual bleeding,Reaction
+6850,Mood altered,Reaction
+6851,Colorectal cancer,Reaction
+6852,Nasopharyngeal cancer,Reaction
+6853,Gastrointestinal carcinoma,Reaction
+6854,Breast cancer female,Reaction
+6855,B precursor type acute leukaemia,Reaction
+6856,Papule,Reaction
+6857,Breast cancer metastatic,Reaction
+6858,Breast cancer stage II,Reaction
+6859,Testis cancer,Reaction
+6860,Meningocele,Reaction
+6861,Neuromuscular scoliosis,Reaction
+6862,Thyroid cancer,Reaction
+6863,Nasal neoplasm,Reaction
+6864,Angina unstable,Reaction
+6865,Pulse pressure decreased,Reaction
+6866,Drug screen negative,Reaction
+6867,Incorrect dose administered by product,Reaction
+6868,Premenstrual syndrome,Reaction
+6869,Myelofibrosis,Reaction
+6870,Occupational exposure to product,Reaction
+6871,Enterovesical fistula,Reaction
+6872,Cardiopulmonary failure,Reaction
+6873,Hyperbilirubinaemia,Reaction
+6874,Endoscopy gastrointestinal,Reaction
+6875,Vulvovaginal pruritus,Reaction
+6876,Intra-abdominal fluid collection,Reaction
+6877,Myocardial necrosis marker increased,Reaction
+6878,Encephalitis autoimmune,Reaction
+6879,Enterobacter sepsis,Reaction
+6880,Glossitis,Reaction
+6881,Autonomic neuropathy,Reaction
+6882,On and off phenomenon,Reaction
+6883,Neutropenic colitis,Reaction
+6884,Precancerous lesion of digestive tract,Reaction
+6885,Enterovirus infection,Reaction
+6886,Minimal residual disease,Reaction
+6887,Otitis media,Reaction
+6888,Skin hyperpigmentation,Reaction
+6889,Prostate examination abnormal,Reaction
+6890,Drug effect less than expected,Reaction
+6891,Ophthalmoplegic migraine,Reaction
+6892,Spinal column injury,Reaction
+6893,Device colour issue,Reaction
+6894,Blood glucose abnormal,Reaction
+6895,Craniotomy,Reaction
+6896,Hypoglycaemic unconsciousness,Reaction
+6897,Circumstance or information capable of leading to device use error,Reaction
+6898,Malignant mesenteric neoplasm,Reaction
+6899,Neuroendocrine carcinoma,Reaction
+6900,Food poisoning,Reaction
+6901,Gastrointestinal stromal tumour,Reaction
+6902,Application site reaction,Reaction
+6903,Foetal death,Reaction
+6904,Allergy to arthropod bite,Reaction
+6905,Bone swelling,Reaction
+6906,Laryngeal oedema,Reaction
+6907,Jaundice,Reaction
+6908,Blood phosphorus increased,Reaction
+6909,Hair growth abnormal,Reaction
+6910,Onychalgia,Reaction
+6911,Blood magnesium decreased,Reaction
+6912,Tonsillectomy,Reaction
+6913,Product communication issue,Reaction
+6914,Post procedural haematoma,Reaction
+6915,Postoperative wound complication,Reaction
+6916,Wound complication,Reaction
+6917,Rhabdomyolysis,Reaction
+6918,Right ventricular dysfunction,Reaction
+6919,C1 esterase inhibitor decreased,Reaction
+6920,Embolism venous,Reaction
+6921,Colitis microscopic,Reaction
+6922,Dental restoration failure,Reaction
+6923,Joint abscess,Reaction
+6924,Cholangitis,Reaction
+6925,Post-injection delirium sedation syndrome,Reaction
+6926,Oral mucosal erythema,Reaction
+6927,Body fat disorder,Reaction
+6928,Glucocorticoid deficiency,Reaction
+6929,Heel fat pad syndrome,Reaction
+6930,Bronchostenosis,Reaction
+6931,Ventricular arrhythmia,Reaction
+6932,Application site irritation,Reaction
+6933,Menopause,Reaction
+6934,Fontanelle depressed,Reaction
+6935,Melanocytic naevus,Reaction
+6936,Renal hypoplasia,Reaction
+6937,Nasal dryness,Reaction
+6938,Gingival swelling,Reaction
+6939,Device maintenance issue,Reaction
+6940,Activated partial thromboplastin time shortened,Reaction
+6941,Amylase increased,Reaction
+6942,Bilirubin conjugated increased,Reaction
+6943,Blood osmolarity decreased,Reaction
+6944,Monocyte count decreased,Reaction
+6945,Neutrophil count increased,Reaction
+6946,Pubic pain,Reaction
+6947,Reticulocyte percentage decreased,Reaction
+6948,Specific gravity urine decreased,Reaction
+6949,Hyperaesthesia teeth,Reaction
+6950,Klebsiella infection,Reaction
+6951,Biliary obstruction,Reaction
+6952,Bradyphrenia,Reaction
+6953,Dementia Alzheimer's type,Reaction
+6954,Dysphemia,Reaction
+6955,Cytomegalovirus infection reactivation,Reaction
+6956,Arterial occlusive disease,Reaction
+6957,Blood prolactin decreased,Reaction
+6958,Cardiac flutter,Reaction
+6959,Formication,Reaction
+6960,Stridor,Reaction
+6961,Bronchitis chronic,Reaction
+6962,Narcolepsy,Reaction
+6963,Carbon monoxide poisoning,Reaction
+6964,Cluster headache,Reaction
+6965,X-ray abnormal,Reaction
+6966,Auditory disorder,Reaction
+6967,Upper respiratory tract congestion,Reaction
+6968,Peripheral nervous system function test abnormal,Reaction
+6969,Limb deformity,Reaction
+6970,Phantom limb syndrome,Reaction
+6971,Feeling of body temperature change,Reaction
+6972,Reading disorder,Reaction
+6973,Acne cystic,Reaction
+6974,"Astrocytoma, low grade",Reaction
+6975,Drug level abnormal,Reaction
+6976,Mesenteric cyst,Reaction
+6977,Mouth ulceration,Reaction
+6978,Raynaud's phenomenon,Reaction
+6979,Toe walking,Reaction
+6980,Abnormal loss of weight,Reaction
+6981,Nail disorder,Reaction
+6982,Nail growth abnormal,Reaction
+6983,Haemarthrosis,Reaction
+6984,Eosinophilic cystitis,Reaction
+6985,Pleural fibrosis,Reaction
+6986,Family stress,Reaction
+6987,Lymphocyte percentage increased,Reaction
+6988,Faeces discoloured,Reaction
+6989,Hyperaesthesia,Reaction
+6990,Aphthous ulcer,Reaction
+6991,Eye ulcer,Reaction
+6992,Lip blister,Reaction
+6993,Ovarian cyst ruptured,Reaction
+6994,Ovarian mass,Reaction
+6995,Pharyngeal disorder,Reaction
+6996,Dental operation,Reaction
+6997,Brain stem syndrome,Reaction
+6998,Appendix cancer,Reaction
+6999,Colitis ulcerative,Reaction
+7000,Colon cancer stage III,Reaction
+7001,Ileostomy,Reaction
+7002,Malignant peritoneal neoplasm,Reaction
+7003,Globulins decreased,Reaction
+7004,Protein total decreased,Reaction
+7005,Teeth brittle,Reaction
+7006,Macular degeneration,Reaction
+7007,Retinal vein thrombosis,Reaction
+7008,Total lung capacity decreased,Reaction
+7009,Vitamin D increased,Reaction
+7010,Bipolar disorder,Reaction
+7011,Arnold-Chiari malformation,Reaction
+7012,Actinomycotic abdominal infection,Reaction
+7013,Repetitive strain injury,Reaction
+7014,Traumatic haemorrhage,Reaction
+7015,Paranasal sinus hypersecretion,Reaction
+7016,Spinal osteoarthritis,Reaction
+7017,Abnormal weight gain,Reaction
+7018,Prescription drug used without a prescription,Reaction
+7019,Carcinoid tumour pulmonary,Reaction
+7020,Angle closure glaucoma,Reaction
+7021,Emergency care,Reaction
+7022,Metastases to pancreas,Reaction
+7023,Acarodermatitis,Reaction
+7024,Rectal cancer stage III,Reaction
+7025,Immunoglobulins increased,Reaction
+7026,Skin sensitisation,Reaction
+7027,Vaccination failure,Reaction
+7028,Exfoliative rash,Reaction
+7029,Lung opacity,Reaction
+7030,Portal fibrosis,Reaction
+7031,Blepharitis,Reaction
+7032,Eyelid infection,Reaction
+7033,Catheter site infection,Reaction
+7034,Scar pain,Reaction
+7035,High frequency ablation,Reaction
+7036,Groin infection,Reaction
+7037,Symptom recurrence,Reaction
+7038,Rhonchi,Reaction
+7039,Skin wound,Reaction
+7040,Exostosis,Reaction
+7041,Ligament operation,Reaction
+7042,Endotracheal intubation,Reaction
+7043,Oxygen consumption increased,Reaction
+7044,Soft tissue disorder,Reaction
+7045,Type III immune complex mediated reaction,Reaction
+7046,Brain neoplasm malignant,Reaction
+7047,Herpes simplex,Reaction
+7048,Lung carcinoma cell type unspecified recurrent,Reaction
+7049,Oral blood blister,Reaction
+7050,Computerised tomogram abnormal,Reaction
+7051,Computerised tomogram pelvis abnormal,Reaction
+7052,Postmenopause,Reaction
+7053,Uterine irritability,Reaction
+7054,Vulvovaginal discomfort,Reaction
+7055,Vulvovaginal dryness,Reaction
+7056,Blood sodium abnormal,Reaction
+7057,Cat scratch disease,Reaction
+7058,Fear of disease,Reaction
+7059,Ophthalmic herpes zoster,Reaction
+7060,Apathy,Reaction
+7061,Chronic fatigue syndrome,Reaction
+7062,Gallbladder mucocoele,Reaction
+7063,Mastication disorder,Reaction
+7064,Oesophageal motility disorder,Reaction
+7065,Parosmia,Reaction
+7066,Tooth discolouration,Reaction
+7067,Polyneuropathy,Reaction
+7068,Orchitis,Reaction
+7069,Prostatic disorder,Reaction
+7070,Lymphangitis,Reaction
+7071,Sternal fracture,Reaction
+7072,Prolapse,Reaction
+7073,Skin reaction,Reaction
+7074,Pneumonia pseudomonal,Reaction
+7075,Steroid dependence,Reaction
+7076,Peripheral arterial occlusive disease,Reaction
+7077,Limb operation,Reaction
+7078,Wound treatment,Reaction
+7079,Increased tendency to bruise,Reaction
+7080,Periarthritis,Reaction
+7081,Scab,Reaction
+7082,Blood gonadotrophin increased,Reaction
+7083,Exposure to toxic agent,Reaction
+7084,Nasal septal operation,Reaction
+7085,Spinal nerve stimulator implantation,Reaction
+7086,Colon cancer metastatic,Reaction
+7087,Ear infection fungal,Reaction
+7088,Gallbladder obstruction,Reaction
+7089,Catheter site pruritus,Reaction
+7090,Atypical haemolytic uraemic syndrome,Reaction
+7091,Carbon dioxide decreased,Reaction
+7092,Complement factor C3 decreased,Reaction
+7093,Haemolytic anaemia,Reaction
+7094,Immature granulocyte count increased,Reaction
+7095,Metamyelocyte count increased,Reaction
+7096,Myelocyte count increased,Reaction
+7097,Nephrotic syndrome,Reaction
+7098,Normochromic normocytic anaemia,Reaction
+7099,Plasma cells increased,Reaction
+7100,Reticulocyte count increased,Reaction
+7101,Selective eating disorder,Reaction
+7102,Thrombotic microangiopathy,Reaction
+7103,Eye oedema,Reaction
+7104,Nephrocalcinosis,Reaction
+7105,Meningioma,Reaction
+7106,Radiation associated pain,Reaction
+7107,Scoliosis,Reaction
+7108,Blister rupture,Reaction
+7109,Lower respiratory tract infection fungal,Reaction
+7110,Pulmonary vascular disorder,Reaction
+7111,Alpha 1 foetoprotein increased,Reaction
+7112,Drug monitoring procedure not performed,Reaction
+7113,Liver function test abnormal,Reaction
+7114,Duodenal perforation,Reaction
+7115,Encephalitis,Reaction
+7116,Shoulder operation,Reaction
+7117,Arthrodesis,Reaction
+7118,Vascular cauterisation,Reaction
+7119,Congenital mitral valve incompetence,Reaction
+7120,Hypertensive emergency,Reaction
+7121,Pseudomonal sepsis,Reaction
+7122,Paranasal sinus discomfort,Reaction
+7123,Pylorospasm,Reaction
+7124,Systolic hypertension,Reaction
+7125,Intervertebral disc disorder,Reaction
+7126,Neck deformity,Reaction
+7127,Distractibility,Reaction
+7128,Hyperventilation,Reaction
+7129,Immobile,Reaction
+7130,Tension,Reaction
+7131,Ovarian cancer recurrent,Reaction
+7132,Pelvic neoplasm,Reaction
+7133,Tumour marker increased,Reaction
+7134,Implantable cardiac monitor insertion,Reaction
+7135,Nerve block,Reaction
+7136,Catheter site related reaction,Reaction
+7137,Ewing's sarcoma,Reaction
+7138,Spinal cord neoplasm,Reaction
+7139,Exposure via skin contact,Reaction
+7140,Senile osteoporosis,Reaction
+7141,Vascular compression,Reaction
+7142,Ovarian cancer stage III,Reaction
+7143,Anion gap decreased,Reaction
+7144,Blood folate increased,Reaction
+7145,Concomitant disease aggravated,Reaction
+7146,Gastrointestinal fistula,Reaction
+7147,Hepatic neoplasm,Reaction
+7148,Hepatitis viral,Reaction
+7149,Nail ridging,Reaction
+7150,Transferrin decreased,Reaction
+7151,Astrocytoma,Reaction
+7152,Sinuplasty,Reaction
+7153,Sudden death,Reaction
+7154,Soft tissue infection,Reaction

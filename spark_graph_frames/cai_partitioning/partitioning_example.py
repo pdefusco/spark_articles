@@ -37,7 +37,6 @@
 # #  Author(s): Paul Michael de Fusco
 #***************************************************************************/
 
-from graphframes import *
 from pyspark.sql import SparkSession
 
 ## If on A
@@ -47,8 +46,11 @@ spark = SparkSession.builder.appName("MyApp") \
             .config("spark.jars.packages", "graphframes:graphframes:0.8.4-spark3.5-s_2.12") \
             .getOrCreate()
 
-drugsDf = spark.read.csv("/home/cdsw/data/drugs-indication.csv")
-therapyDf = spark.read.csv("/home/cdsw/data/therapy.csv")
+from graphframes import *
+
+drugsDf = spark.read.csv("/home/cdsw/spark_graph_frames/cai_partitioning/data/drugs-indication.csv")
+therapyDf = spark.read.csv("/home/cdsw/spark_graph_frames/cai_partitioning/data/therapy.csv")
+
 
 # Create a GraphFrame
 g = GraphFrame(drugsDf, therapyDf)

@@ -1,0 +1,6 @@
+:ID,code,name,:LABEL
+7155,HP,Health Professional,ReportSource
+7156,CSM,Consumer,ReportSource
+7157,FGN,Foreign,ReportSource
+7158,CR,Company Representative,ReportSource
+7159,UF,User Facility,ReportSource
