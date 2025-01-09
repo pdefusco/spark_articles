@@ -49,7 +49,7 @@ from graphframes import *
 
 ageGroupDf = spark.read.option("delimiter", ",").option("header", True).csv("/home/cdsw/spark_graph_frames/cai_partitioning/data/healthcare-analytics.nodes.AgeGroup.csv")
 caseDf = spark.read.option("delimiter", ",").option("header", True).csv("/home/cdsw/spark_graph_frames/cai_partitioning/data/healthcare-analytics.nodes.Case.csv")
-drugDf = spark.read.option("delimiter", ",").option("header", True).csv("/home/cdsw/spark_graph_frames/cai_partitioning/healthcare-analytics.nodes.Drug.csv")
+drugDf = spark.read.option("delimiter", ",").option("header", True).csv("/home/cdsw/spark_graph_frames/cai_partitioning/data/healthcare-analytics.nodes.Drug.csv")
 manufacturerDf = spark.read.option("delimiter", ",").option("header", True).csv("/home/cdsw/spark_graph_frames/cai_partitioning/data/healthcare-analytics.nodes.Manufacturer.csv")
 outcomeDf = spark.read.option("delimiter", ",").option("header", True).csv("/home/cdsw/spark_graph_frames/cai_partitioning/data/healthcare-analytics.nodes.Outcome.csv")
 reactionDf = spark.read.option("delimiter", ",").option("header", True).csv("/home/cdsw/spark_graph_frames/cai_partitioning/data/healthcare-analytics.nodes.Reaction.csv")
@@ -63,19 +63,36 @@ isPrimarySuspectDf = spark.read.option("delimiter", ",").option("header", True).
 isSecondarySuspectDf = spark.read.option("delimiter", ",").option("header", True).csv("/home/cdsw/spark_graph_frames/cai_partitioning/data/healthcare-analytics.relationships.IS_SECONDARY_SUSPECT.csv")
 isPrescribedSuspectDf = spark.read.option("delimiter", ",").option("header", True).csv("/home/cdsw/spark_graph_frames/cai_partitioning/data/healthcare-analytics.relationships.PRESCRIBED.csv")
 receivedDf = spark.read.option("delimiter", ",").option("header", True).csv("/home/cdsw/spark_graph_frames/cai_partitioning/data/healthcare-analytics.relationships.RECEIVED.csv")
-registered = spark.read.option("delimiter", ",").option("header", True).csv("/home/cdsw/spark_graph_frames/cai_partitioning/data/healthcare-analytics.relationships.REGISTERED.csv")
+registeredDf = spark.read.option("delimiter", ",").option("header", True).csv("/home/cdsw/spark_graph_frames/cai_partitioning/data/healthcare-analytics.relationships.REGISTERED.csv")
 reportedByDf = spark.read.option("delimiter", ",").option("header", True).csv("/home/cdsw/spark_graph_frames/cai_partitioning/data/healthcare-analytics.relationships.REPORTED_BY.csv")
 resultedInDf = spark.read.option("delimiter", ",").option("header", True).csv("/home/cdsw/spark_graph_frames/cai_partitioning/data/healthcare-analytics.relationships.RESULTED_IN.csv")
 
 ageGroupDf.show()
 caseDf.show()
 drugDf.show()
+manufacturerDf.show()
 outcomeDf.show()
 reactionDf.show()
-reportSourcesDf.show()
+reportSourceDf.show()
+therapyDf.show()
+fallsUnderDf.show()
+hasReactionDf.show()
+isConcomitantDf.show()
+isInteractingDf.show()
+isPrimarySuspectDf.show()
+isSecondarySuspectDf.show()
+isPrescribedSuspectDf.show()
+receivedDf.show()
+registeredDf.show()
+reportedByDf.show()
+resultedInDf.show()
+
+# Rename DF Columns
+
+
 
 # Create a GraphFrame
-g = GraphFrame(therapyDf, drugsDf)
+g = GraphFrame(caseDf, ageGroupDf)
 g.vertices.show()
 g.edges.show()
 
