@@ -1,8 +1,10 @@
-# Instructions
+# PySpark and Iceberg Quickstart with Spark Connect in Cloudera Data Engineering
+
+![alt text](../../img/spark_connect.png)
 
 ## Prerequisites
 
-* A CDE Service and Virtual Cluster on version 1.23 or above.
+* A CDE Service and Virtual Cluster on version 1.23 or above, and 3.5.1, respectively.
 * A local installation of the CDE CLI on version 1.23 or above.
 * A local installation of JupyterLab. Version 4.0.7 was used for this demonstration but other versions should work as well.
 * A local installation of Python. Version 3.9.12 was used for this demonstration but other versions will work as well.
