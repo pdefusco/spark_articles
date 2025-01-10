@@ -76,6 +76,7 @@ pip install pyspark-3.5.1.tar.gz
 * Launch the JupyterLab server with:
 
 ```
+pip install jupyterlab
 jupyter lab
 ```
 
