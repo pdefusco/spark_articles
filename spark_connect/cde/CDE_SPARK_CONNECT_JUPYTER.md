@@ -1,4 +1,4 @@
-# JupyterLab Quickstart with Spark Connect in CDE
+# JupyterLab and Spark Connect Quickstart in CDE
 
 ![alt text](../../img/sparkconnect-large.png)
 
