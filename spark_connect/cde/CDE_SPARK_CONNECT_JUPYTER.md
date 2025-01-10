@@ -9,17 +9,33 @@
 
 ### 1. Launch a CDE Spark Connect Session
 
+Create CDE Files Resources and upload csv files.
+
+```
+cde resource create \
+  --name myFiles \
+  --type files
+```
+
+```
+cde resource upload \
+  --name myFiles \
+  --local-path resources/cell_towers_1.csv \
+  --local-path resources/cell_towers_2.csv
+```
+
 Start a CDE Session of type Spark Connect. Edit the Session Name parameter so it doesn't collide with other users' sessions.
 
 ```
 cde session create \
-  --name paul-spark-connect-session \
+  --name spark-connect-session-res \
   --type spark-connect \
   --num-executors 2 \
   --driver-cores 2 \
   --driver-memory "2g" \
   --executor-cores 2 \
-  --executor-memory "2g"
+  --executor-memory "2g" \
+  --mount-1-resource myFiles
 ```
 
 In the Sessions UI, validate the Session is Running.
