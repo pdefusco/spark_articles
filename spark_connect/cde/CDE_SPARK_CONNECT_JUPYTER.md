@@ -1,4 +1,4 @@
-# PySpark and Iceberg Quickstart with Spark Connect in Cloudera Data Engineering
+# JupyterLab Quickstart with Spark Connect in CDE
 
 ![alt text](../../img/sparkconnect-large.png)
 
