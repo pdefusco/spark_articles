@@ -13,13 +13,13 @@ Create CDE Files Resources and upload csv files.
 
 ```
 cde resource create \
-  --name myFiles \
+  --name telcoFiles \
   --type files
 ```
 
 ```
 cde resource upload \
-  --name myFiles \
+  --name telcoFiles \
   --local-path resources/cell_towers_1.csv \
   --local-path resources/cell_towers_2.csv
 ```
