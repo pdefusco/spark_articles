@@ -1,6 +1,6 @@
 # PySpark and Iceberg Quickstart with Spark Connect in Cloudera Data Engineering
 
-![alt text](../../img/spark_connect.png)
+![alt text](../../img/sparkconnect-large.png)
 
 ## Prerequisites
 
