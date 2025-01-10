@@ -77,21 +77,20 @@ pip install pyspark-3.5.1.tar.gz
 jupyter lab
 ```
 
-![alt text](../../img/jupyterlab_validate.png)
+![alt text](../../img/launch_cde_spark_connect_jupyter.png)
 
 
 ### 3. Run Your First PySpark & Iceberg Application via Spark Connect
 
-You are now ready to connect to the CDE Session from your local IDE using Spark Connect.
+You are now ready to connect to the CDE Session from your local JupyterLab instance using Spark Connect.
 
-Open "prototype.py" in your IDE (VSCode or JupyterLab). Make the following changes:
+* In the first cell, edit the sessionName option and add your session name from the CLI Create Session command above.
+* In the second cell, edit your username.
 
-* At line 46, edit the "sessionName" parameter with your Session Name from the above CLI command.
-* At line 48, edit the "storageLocation" parameter with the following: <Enter Cloud Storage Location Here>
-* At line 49, edit the "username" parameter with your assigned username.
+Now run each cell and observe outputs.
 
-Now run "prototype.py" and observe outputs.
-
-![alt text](../../img/cde_spark_connect_vscode.png)
+![alt text](../../img/cde_spark_connect_notebook_outputs.png)
 
 ### 4. PySpark & Iceberg Application code walkthrough
+
+Coming soon.
