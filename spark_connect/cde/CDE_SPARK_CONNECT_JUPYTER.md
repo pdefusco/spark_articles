@@ -35,7 +35,7 @@ cde session create \
   --driver-memory "2g" \
   --executor-cores 2 \
   --executor-memory "2g" \
-  --mount-1-resource myFiles
+  --mount-1-resource telcoFiles
 ```
 
 In the Sessions UI, validate the Session is Running.
