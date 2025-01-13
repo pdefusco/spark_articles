@@ -63,7 +63,7 @@ python -m venv spark_connect_jupyter
 source spark_connect_jupyter/bin/activate
 ```
 
-* Install the following packages:
+* Install the following packages. Notice that these exact versions were used with Python 3.9. Numpy, cmake, and PyArrow versions may be subject to change depending on your Python version.
 
 ```
 pip install numpy==1.26.4

@@ -1,18 +1,19 @@
-# Instructions
+# PyCharm and Spark Connect Quickstart in CDE
 
-## 0. PySpark & Iceberg Application code walkthrough
+## Prerequisites
 
+* A CDE Service and Virtual Cluster on version 1.23 or above, and 3.5.1, respectively.
+* A local installation of the CDE CLI on version 1.23 or above.
+* A local installation of JupyterLab. Version 4.0.7 was used for this demonstration but other versions should work as well.
+* A local installation of Python. Version 3.9.12 was used for this demonstration but other versions will work as well.
 
-
-## 1. Test jobs in CDE Session from local
-
-#### Launch a CDE Spark Connect Session
+### 1. Launch a CDE Spark Connect Session
 
 Start a CDE Session of type Spark Connect. Edit the Session Name parameter so it doesn't collide with other users' sessions.
 
 ```
 cde session create \
-  --name paul-hol-session \
+  --name pycharm-session \
   --type spark-connect \
   --num-executors 2 \
   --driver-cores 2 \
@@ -23,22 +24,17 @@ cde session create \
 
 In the Sessions UI, validate the Session is Running.
 
-![alt text](../../img/cde_session_validate_1.png)
+![alt text](../../img/pycharm-spark-connect-session.png)
 
-![alt text](../../img/cde_session_validate_2.png)
-
-#### Install Spark Connect Prerequisites
+### 2. Install Spark Connect Prerequisites
 
 From the terminal, install the following Spark Connect prerequisites:
 
-* Create a new Python Virtual Environment:
+* Create a new Project and Python Virtual Environment in PyCharm:
 
-```
-python -m venv spark_connect_vscode
-source spark_connect_vscode/bin/activate
-```
+![alt text](../../img/pycharm_project.png)
 
-* Install the following packages:
+* In the terminal, install the following packages. Notice that these exact versions were used with Python 3.9. Numpy, cmake, and PyArrow versions may be subject to change depending on your Python version.
 
 ```
 pip install numpy==1.26.4
@@ -48,16 +44,11 @@ pip install cdeconnect.tar.gz
 pip install pyspark-3.5.1.tar.gz
 ```
 
-* Open VS Code.
-
-![alt text](../../img/vscode_validate.png)
-
-
-#### Run Your First PySpark & Iceberg Application via Spark Connect
+### 3. Run Your First PySpark & Iceberg Application via Spark Connect
 
 You are now ready to connect to the CDE Session from your local IDE using Spark Connect.
 
-Open "prototype.py" in your IDE (VSCode or JupyterLab). Make the following changes:
+Open "prototype.py". Make the following changes:
 
 * At line 46, edit the "sessionName" parameter with your Session Name from the above CLI command.
 * At line 48, edit the "storageLocation" parameter with the following: <Enter Cloud Storage Location Here>
@@ -65,4 +56,4 @@ Open "prototype.py" in your IDE (VSCode or JupyterLab). Make the following chang
 
 Now run "prototype.py" and observe outputs.
 
-![alt text](../../img/cde_spark_connect_vscode.png)
+![alt text](../../img/pycharm_outputs.png)
