@@ -44,6 +44,8 @@ pip install cdeconnect.tar.gz
 pip install pyspark-3.5.1.tar.gz
 ```
 
+![alt text](../../img/pycharm_install_requirements.png)
+
 ### 3. Run Your First PySpark & Iceberg Application via Spark Connect
 
 You are now ready to connect to the CDE Session from your local IDE using Spark Connect.
