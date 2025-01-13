@@ -1,6 +1,6 @@
 # JupyterLab and Spark Connect Quickstart in CDE
 
-![alt text](../../img/sparkconnect-large.png)
+![alt text](../../img/spark-connect-slide.png)
 
 ## Prerequisites
 

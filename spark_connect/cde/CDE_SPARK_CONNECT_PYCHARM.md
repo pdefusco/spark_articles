@@ -1,5 +1,7 @@
 # PyCharm and Spark Connect Quickstart in CDE
 
+![alt text](../../img/spark-connect-slide.png)
+
 ## Prerequisites
 
 * A CDE Service and Virtual Cluster on version 1.23 or above, and 3.5.1, respectively.

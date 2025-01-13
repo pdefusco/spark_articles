@@ -1,7 +1,6 @@
 # Instructions
 
-## 0. PySpark & Iceberg Application code walkthrough
-
+![alt text](../../img/spark-connect-slide.png)
 
 
 ## 1. Test jobs in CDE Session from local
